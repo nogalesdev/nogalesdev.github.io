@@ -1,8 +1,8 @@
 ---
 id: 9377
-title: Recuperar tu Belleza Natural (1)
+title: Recuperar tu Belleza Natural
 date: 2020-11-14T10:17:40+01:00
-author: Dr. José Ferrandis Luis
+author: ferrandis
 layout: page-fullwidth
 guid: https://www.nogales.eu/?p=9377
 permalink: /2020/11/recuperando-tu-belleza-natural/
