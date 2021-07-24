@@ -2,7 +2,7 @@
 id: 9088
 title: 'TRATAMIENTO BIOLÓGICO DE LAS OSTEONECROSIS DEL CÓNDILO FEMORAL MEDIAL  DE LA RODILLA'
 date: 2018-02-03T14:12:32+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9088
 permalink: /2018/02/tratamiento-biologico-de-las-osteonecrosis-del-cfm-de-las-rodillas/

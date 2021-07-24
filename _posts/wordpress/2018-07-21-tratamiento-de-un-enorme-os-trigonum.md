@@ -2,7 +2,7 @@
 id: 9250
 title: TRATAMIENTO DE UN ENORME OS TRIGONUM / TREATMENT OF ENLARGED OS TRIGONUM
 date: 2018-07-21T23:12:31+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: https://www.nogales.eu/?p=9250
 permalink: /2018/07/tratamiento-de-un-enorme-os-trigonum/

@@ -2,7 +2,7 @@
 id: 9236
 title: ARTICULO DE PRENSA SOBRE UN CASO DE NO UNIÓN FEMORAL
 date: 2018-07-10T11:31:12+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: https://www.nogales.eu/?p=9236
 permalink: /2018/07/articulo-de-prensa-sobre-un-caso-de-no-union-femoral/

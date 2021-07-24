@@ -2,7 +2,7 @@
 id: 9103
 title: EL PLASMA RICO EN PLAQUETAS EN LA CIRUGÍA DEL LIGAMENTO CRUZADO ANTERIOR
 date: 2018-02-10T19:01:18+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9103
 permalink: /2018/02/el-plasma-rico-en-plaquetas-en-la-cirugia-del-ligamento-cruzado-anterior/

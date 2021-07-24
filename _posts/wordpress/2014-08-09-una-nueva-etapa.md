@@ -2,7 +2,7 @@
 id: 8233
 title: Una nueva etapa
 date: 2014-08-09T17:42:22+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 sidebar: left
 guid: http://nogales.eu/?p=8233

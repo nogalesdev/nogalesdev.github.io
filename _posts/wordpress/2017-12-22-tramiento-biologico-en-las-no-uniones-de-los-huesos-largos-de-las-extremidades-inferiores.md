@@ -2,7 +2,7 @@
 id: 9017
 title: TRATAMIENTO BIOLÓGICO EN LAS NO UNIONES DE LOS HUESOS LARGOS DE LAS EXTREMIDADES INFERIORES
 date: 2017-12-22T14:15:23+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9017
 permalink: /2017/12/tramiento-biologico-en-las-no-uniones-de-los-huesos-largos-de-las-extremidades-inferiores/

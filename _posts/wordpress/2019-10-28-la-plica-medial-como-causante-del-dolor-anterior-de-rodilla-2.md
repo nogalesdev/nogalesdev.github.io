@@ -2,7 +2,7 @@
 id: 9313
 title: LA PLICA MEDIAL COMO CAUSANTE DEL DOLOR ANTERIOR DE RODILLA
 date: 2019-10-28T12:16:02+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: https://www.nogales.eu/?p=9313
 permalink: /2019/10/la-plica-medial-como-causante-del-dolor-anterior-de-rodilla-2/

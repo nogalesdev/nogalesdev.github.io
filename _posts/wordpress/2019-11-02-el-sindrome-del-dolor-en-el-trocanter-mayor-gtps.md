@@ -2,7 +2,7 @@
 id: 9317
 title: EL SÍNDROME DEL DOLOR EN EL TROCANTER MAYOR (GTPS)
 date: 2019-11-02T14:09:05+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: https://www.nogales.eu/?p=9317
 permalink: /2019/11/el-sindrome-del-dolor-en-el-trocanter-mayor-gtps/

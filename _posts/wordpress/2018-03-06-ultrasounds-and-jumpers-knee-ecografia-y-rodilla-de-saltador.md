@@ -2,7 +2,7 @@
 id: 9149
 title: 'Ultrasounds and Jumper&#8217;s Knee &#8211; Ecografía y rodilla de saltador.'
 date: 2018-03-06T00:09:26+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9149
 permalink: /2018/03/ultrasounds-and-jumpers-knee-ecografia-y-rodilla-de-saltador/

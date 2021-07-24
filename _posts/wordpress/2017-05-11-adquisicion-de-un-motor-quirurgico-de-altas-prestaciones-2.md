@@ -2,7 +2,7 @@
 id: 8967
 title: ADQUISICIÓN DE UN MOTOR QUIRÚRGICO DE ALTAS PRESTACIONES
 date: 2017-05-11T18:05:51+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=8967
 permalink: /2017/05/adquisicion-de-un-motor-quirurgico-de-altas-prestaciones-2/

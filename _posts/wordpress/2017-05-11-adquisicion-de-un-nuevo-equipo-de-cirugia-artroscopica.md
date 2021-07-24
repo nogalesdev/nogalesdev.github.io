@@ -2,7 +2,7 @@
 id: 8971
 title: ADQUISICIÓN DE UN NUEVO EQUIPO DE CIRUGÍA ARTROSCÓPICA
 date: 2017-05-11T18:22:03+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=8971
 permalink: /2017/05/adquisicion-de-un-nuevo-equipo-de-cirugia-artroscopica/

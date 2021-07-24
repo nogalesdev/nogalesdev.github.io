@@ -2,7 +2,7 @@
 id: 9145
 title: 'PRP: Infiltration by ultrasound control in left shoulder'
 date: 2018-03-04T23:22:28+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9145
 permalink: /2018/03/prp-infiltration-by-ultrasound-control-in-left-shoulder/

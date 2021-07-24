@@ -2,7 +2,7 @@
 id: 8991
 title: 'LA PLICA SINOVIAL MEDIAL: TEST CLÍNICOS E IMÁGENES ARTROSCÓPICAS.'
 date: 2017-05-14T12:40:14+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=8991
 permalink: /2017/05/la-plica-medial/

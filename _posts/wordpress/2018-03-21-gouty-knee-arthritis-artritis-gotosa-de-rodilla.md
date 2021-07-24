@@ -2,7 +2,7 @@
 id: 9156
 title: 'Gouty  arthritis in the Knee &#8211; Artritis gotosa de rodilla'
 date: 2018-03-21T00:42:06+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9156
 permalink: /2018/03/gouty-knee-arthritis-artritis-gotosa-de-rodilla/

@@ -2,7 +2,7 @@
 id: 9152
 title: Ultrasound and Trochanter Major Syndrome
 date: 2018-03-11T19:14:32+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9152
 permalink: /2018/03/ultrasound-and-trochanter-major-syndrome/

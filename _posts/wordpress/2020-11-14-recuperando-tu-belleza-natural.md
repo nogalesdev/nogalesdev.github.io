@@ -8,16 +8,10 @@ guid: https://www.nogales.eu/?p=9377
 permalink: /2020/11/recuperando-tu-belleza-natural/
 slide_template:
   - default
-post:
-  - |
-    <?xml version="1.0"?>
-    <cs_meta_post><post_thumb_view>Single Image</post_thumb_view><post_featured_image_as_thumbnail/><post_thumb_audio/><post_thumb_video/><post_thumb_slider/><post_thumb_slider_type/><inside_post_thumb_view>Single Image</inside_post_thumb_view><inside_post_featured_image_as_thumbnail/><inside_post_thumb_audio/><inside_post_thumb_video/><inside_post_thumb_slider/><inside_post_thumb_slider_type/><post_social_sharing>on</post_social_sharing><post_author_info_show>on</post_author_info_show><post_tags_show>on</post_tags_show><post_attachment_show>on</post_attachment_show><page_title/><page_sub_title/><page_subheader_color/><page_subheader_font_color/><header_banner_style>default_header</header_banner_style><header_banner_image/><header_banner_flex_slider>blog</header_banner_flex_slider><custom_slider_id/><sidebar_layout><cs_layout/></sidebar_layout></cs_meta_post>
+teaser: 'Con el paso de los años, en la zona facial van apareciendo signos por la pérdida progresiva de soporte estructural, lo que deteriora el contorno facial y origina pliegues y arrugas. Hoy en día podemos corregir estos rasgos negativos mediante tratamientos estéticos sobre los Códigos clave de ese proceso.'
     
 categories:
-  - Full-face
   - Medicina Estética
-  - platelets rich plasma
-  - PRP
 tags:
   - Ecografía cutánea
   - estética
@@ -27,6 +21,8 @@ tags:
   - Las Palmas
   - MD Codes
   - PRP
+  - platelets rich plasma
+  - plasma rico en plaquetas
   - rejuvenecimiento
   - toxina botulínica
 ---

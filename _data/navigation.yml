@@ -6,9 +6,9 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Histórico artículos"
     url: "/blog/archive/"
 
 - title: "Contacto"
-  url: "/contact/"
+  url: "/contacto/"
   side: right

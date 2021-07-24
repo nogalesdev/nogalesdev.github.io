@@ -2,7 +2,7 @@
 id: 9131
 title: EL SINDROME DOLOROSO DEL TROCÁNTER MAYOR (GTPS)
 date: 2018-02-13T20:57:39+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9131
 permalink: /2018/02/el-sindrome-doloroso-del-trocanter-mayor-gtps/

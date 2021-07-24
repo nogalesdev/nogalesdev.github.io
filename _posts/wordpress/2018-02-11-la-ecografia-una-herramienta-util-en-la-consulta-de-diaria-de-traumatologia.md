@@ -2,7 +2,7 @@
 id: 9115
 title: 'LA ECOGRAFIA: UNA HERRAMIENTA ÚTIL EN LA CONSULTA DE DIARIA DE TRAUMATOLOGÍA'
 date: 2018-02-11T23:46:00+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9115
 permalink: /2018/02/la-ecografia-una-herramienta-util-en-la-consulta-de-diaria-de-traumatologia/

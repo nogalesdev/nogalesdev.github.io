@@ -2,7 +2,7 @@
 id: 9108
 title: FAST TRACK EN CIRUGÍA DE REEMPLAZO ARTICULAR DE RODILLA Y CADERA
 date: 2018-02-10T19:08:26+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9108
 permalink: /2018/02/fast-track-en-cirugia-de-reemplazo-articular-de-rodilla-y-cadera/

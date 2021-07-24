@@ -2,7 +2,7 @@
 id: 9165
 title: 'Knee arthroscopy: Avascular Necrosis in Medial Femoral Condyle'
 date: 2018-03-23T21:20:40+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: video
 guid: http://www.nogales.eu/?p=9165
 permalink: /2018/03/knee-arthroscopy-avascular-necrosis-in-medial-femoral-condyle/

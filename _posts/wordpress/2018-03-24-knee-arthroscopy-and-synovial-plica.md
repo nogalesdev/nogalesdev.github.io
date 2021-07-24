@@ -2,7 +2,7 @@
 id: 9168
 title: Knee arthroscopy and Synovial Plica
 date: 2018-03-24T20:43:57+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9168
 permalink: /2018/03/knee-arthroscopy-and-synovial-plica/

@@ -2,7 +2,7 @@
 id: 8702
 title: EL USO DEL PLASMA AUTOLOGO RICO EN PLAQUETAS INTRAÓSEO EN NECROSIS ÓSEAS DEL CONDILO FEMORAL MEDIAL RODILLA IZQUIERDA A PROPÓSITO DE UN CASO.
 date: 2016-07-25T10:26:28+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=8702
 permalink: /2016/07/el-uso-del-plasma-autologo-rico-en-plaquetas-intraoseo-en-necrosis-oseas-del-condilo-femoral-medial-rodilla-izquierda-a-proposito-de-un-caso-2/

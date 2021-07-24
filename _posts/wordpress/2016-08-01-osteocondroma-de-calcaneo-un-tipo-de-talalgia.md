@@ -2,7 +2,7 @@
 id: 8729
 title: 'OSTEOCONDROMA DE CALCANEO: UN TIPO DE TALALGIA'
 date: 2016-08-01T20:43:30+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=8729
 permalink: /2016/08/osteocondroma-de-calcaneo-un-tipo-de-talalgia/

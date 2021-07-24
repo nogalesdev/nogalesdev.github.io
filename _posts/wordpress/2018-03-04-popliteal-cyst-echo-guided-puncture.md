@@ -2,7 +2,7 @@
 id: 9142
 title: 'POPLITEAL CYST: ECHO GUIDED PUNCTURE'
 date: 2018-03-04T23:11:51+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9142
 permalink: /2018/03/popliteal-cyst-echo-guided-puncture/

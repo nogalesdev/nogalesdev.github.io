@@ -2,7 +2,7 @@
 id: 9112
 title: DOLOR EN CARA ANTERIOR DE RODILLA
 date: 2018-02-10T19:38:36+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9112
 permalink: /2018/02/dolor-en-cara-anterior-de-rodilla/

@@ -2,7 +2,7 @@
 id: 9243
 title: ARTICULO DE PRENSA SOBRE DR. NOGALES
 date: 2018-07-10T11:50:07+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: https://www.nogales.eu/?p=9243
 permalink: /2018/07/articulo-de-prensa-sobre-dr-nogales/

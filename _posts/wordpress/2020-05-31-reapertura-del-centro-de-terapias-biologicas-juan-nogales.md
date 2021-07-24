@@ -2,20 +2,17 @@
 id: 9356
 title: REAPERTURA DEL CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES
 date: 2020-05-31T12:12:57+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: https://www.nogales.eu/?p=9356
 permalink: /2020/05/reapertura-del-centro-de-terapias-biologicas-juan-nogales/
 slide_template:
   - default
-post:
-  - |
-    <?xml version="1.0"?>
-    <cs_meta_post><post_thumb_view>Single Image</post_thumb_view><post_featured_image_as_thumbnail/><post_thumb_audio/><post_thumb_video/><post_thumb_slider/><post_thumb_slider_type/><inside_post_thumb_view>Single Image</inside_post_thumb_view><inside_post_featured_image_as_thumbnail/><inside_post_thumb_audio/><inside_post_thumb_video/><inside_post_thumb_slider/><inside_post_thumb_slider_type/><post_social_sharing>on</post_social_sharing><post_author_info_show>on</post_author_info_show><post_tags_show>on</post_tags_show><post_attachment_show>on</post_attachment_show><page_title/><page_sub_title/><page_subheader_color/><page_subheader_font_color/><header_banner_style>default_header</header_banner_style><header_banner_image/><header_banner_flex_slider>blog</header_banner_flex_slider><custom_slider_id/><sidebar_layout><cs_layout/></sidebar_layout></cs_meta_post>
+teaser: 'A partir de el día 1 de Junio, el CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES, estará abierto y a disposición de la población general para las consultas de TRAUMATOLOGÍA y CIRUGÍA ORTOPÉDICA y para las consultas de MEDICINA ESTÉTICA con las máximas garantías de prevención para el COVID-19.'
     
 image: /wp-content/uploads/2020/05/LA-CONSULTA.png
 categories:
-  - Uncategorized
+  - noticias
 ---
 [REAPERTURA DEL CTB JUAN NOGALES](https://www.nogales.eu/wp-content/uploads/2020/05/REAPERTURA-DEL-CTB-JUAN-NOGALES.pdf)
 
@@ -31,5 +28,3 @@ Antes de ser citad@ se le preguntará por si ha tenido fiebre, tos, pérdida de 
 Al llegar al Centro, notará los cambios introducidos, como la mampara de protección en la Admisión, la cartelería informativa sobre uso obligatorio de mascarillas y la distancia de seguridad, la utilización de calzas y la asignación del lugar de espera por parte de la persona responsable de la Admisión al Centro.  
 El día de los tratamientos biológicos con Plasma Rico en Plaquetas, habrá una disminución del número de pacientes en cada sesión, para mejorar las medidas de contención y prevención del virus.  
 Habrá en todo el Centro líquido desinfectante para las manos, que preferimos al uso de guantes, ya que estos últimos pueden estar contaminados y contaminar todas las superficies que use. Las manos una vez desinfectadas, pueden volver a limpiarse y no generarán falsa seguridad como puede pasar con los guantes. Por lo que NO RECOMENDAMOS EL USO DE GUANTES en los pacientes.
-
-EN RESUMEN: comunicar que a partir de el día 1 de Junio, el CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES, estará abierto y a disposición de la población general para las consultas de TRAUMATOLOGÍA y CIRUGÍA ORTOPÉDICA y para las consultas de MEDICINA ESTÉTICA con las máximas garantías de prevención para el COVID-19.

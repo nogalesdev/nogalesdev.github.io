@@ -2,7 +2,7 @@
 id: 8696
 title: VALORACIÓN DE LA CALIDAD DE VIDA RELACIONADA CON LA SALUD EN LOS PACIENTES INTERVENIDOS DE ARTROPLASTIA TOTAL DE RODILLA.
 date: 2016-07-23T20:41:06+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=8696
 permalink: /2016/07/valoracion-de-la-calidad-de-vida-relacionada-con-la-salud-en-los-pacientes-intervenidos-de-artroplastia-total-de-rodilla/

@@ -2,7 +2,7 @@
 id: 9171
 title: 'KNEE ARTHROSCOPY: ANTERO-LATERAL PAIN IN THREE STAGES'
 date: 2018-04-08T12:16:04+01:00
-author: Dr. Juan J. Nogales Hidalgo
+author: nogales
 layout: page-fullwidth
 guid: http://www.nogales.eu/?p=9171
 permalink: /2018/04/knee-arthroscopy-antero-lateral-pain-in-three-stages/
