@@ -4,7 +4,6 @@ title: REAPERTURA DEL CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES
 date: 2020-05-31T12:12:57+01:00
 author: nogales
 layout: page-fullwidth
-guid: https://www.nogales.eu/?p=9356
 permalink: /2020/05/reapertura-del-centro-de-terapias-biologicas-juan-nogales/
 slide_template:
   - default

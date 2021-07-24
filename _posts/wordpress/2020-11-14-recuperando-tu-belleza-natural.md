@@ -26,13 +26,13 @@ tags:
   - rejuvenecimiento
   - toxina botulínica
 ---
-Con el paso de los años, en la zona facial van apareciendo signos por la pérdida progresiva de soporte estructural, lo que deteriora el contorno facial y origina pliegues y arrugas. A la vez ello hace que el espejo nos devuelva una imagen cansada, triste, flácida o enfadada. Hoy en día podemos corregir estos rasgos negativos mediante **tratamientos estéticos sobre los Códigos clave** de ese proceso.
 
+## Tratamientos estéticos sobre los Códigos clave
 **Tratar sólo los signos aislados** como una arruga, un surco o similar, [<img loading="lazy" class="alignright wp-image-9404" src="https://www.nogales.eu/wp-content/uploads/2020/11/reformar-casa-300x200.jpg" alt="reformar-casa" width="252" height="168" srcset="https://www.nogales.eu/wp-content/uploads/2020/11/reformar-casa-300x200.jpg 300w, https://www.nogales.eu/wp-content/uploads/2020/11/reformar-casa-1024x682.jpg 1024w, https://www.nogales.eu/wp-content/uploads/2020/11/reformar-casa-242x160.jpg 242w, https://www.nogales.eu/wp-content/uploads/2020/11/reformar-casa.jpg 1200w" sizes="(max-width: 252px) 100vw, 252px" />](https://www.nogales.eu/wp-content/uploads/2020/11/reformar-casa.jpg)sin afrontar el conjunto de la cara y esos atributos negativos, **genera resultados insatisfactorios**. Por la misma razón que al reformar nuestra casa hemos de asegurar primero que una buena estructura y que sus paredes vuelven a estar en perfecto estado, antes de afrontar la decoración.
 
-En nuestro Centro combinamos nuestra amplia experiencia en medios biológicos como el PRP, con técnicas que lo complementan a base de Ácido Hialurónico y otros medios apropiados, con el objetivo de devolver al paciente su mejor imagen en cada momento de su vida.
+En nuestro Centro combinamos nuestra amplia experiencia en medios biológicos como el PRP (PLasma Rico en Plaquetas), con técnicas que lo complementan a base de Ácido Hialurónico y otros medios apropiados, con el objetivo de devolver al paciente su mejor imagen en cada momento de su vida.
 
-QUÉ APORTA EN TODO ESTO EL PRP:
+### Qué aporta en todo esto el <abbr title="Pasma Rico en Plaquetas">PRP</abbr>:
 
 El PRP mejora radicalmente la calidad de la piel envejecida o dañada por el sol, y atenúa o elimina arrugas finas, y devuelve la luminosidad y elasticidad perdidas. Puede aplicarse como tratamiento aislado, o como broche final a tratamientos combinados con hialurónico o botox, que restauran previamente las bases y el contorno de la cara.
 
@@ -45,10 +45,6 @@ El mecanismo de acción del PRP es múltiple:<img loading="lazy" class="alignrig
 
 #### Próximamente te explicaremos cómo analizar y corregir los mensajes faciales negativos que aparecen con el tiempo
 
-> <h2 style="text-align: center;">
->   <strong>Pide tu cita médico-estética informativa en el 928431503</strong>
-> </h2>
-
-* * *
-
-&nbsp;
+<h2 style="text-align: center;">
+  <strong> »Pide tu cita médico-estética informativa en el 928431503« </strong>
+</h2>

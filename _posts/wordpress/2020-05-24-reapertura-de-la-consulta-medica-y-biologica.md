@@ -4,10 +4,7 @@ title: REAPERTURA DE LA CONSULTA MÉDICA Y BIOLÓGICA
 date: 2020-05-24T15:35:39+01:00
 author: nogales
 layout: page-fullwidth
-guid: https://www.nogales.eu/?p=9349
 permalink: /2020/05/reapertura-de-la-consulta-medica-y-biologica/
-slide_template:
-  - default
 teaser: 'LA CONSULTA DEL DR. JUAN NOGALES HIDALGO (CIRUJANO ORTOPÉDICO Y TRAUMATÓLOGO) Y DEL DR. JOSE FERRANDIS LUIS (MEDICINA ESTÉTICA) ESTARÁN ABIERTAS AL PÚBLICO A PARTIR DEL DÍA 1 DE JUNIO, Y QUE SE LLEVARÁN CON LAS MÁXIMAS MEDIDAS DE PROTECCIÓN FRENTE AL VIRUS SARS COV-2 PARA EVITAR CONTAGIOS. '    
 image: /wp-content/uploads/2020/05/LOGO-CTB-OK.png
 categories:

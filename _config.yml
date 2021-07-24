@@ -112,7 +112,8 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: nogales     # Default author for pages
+      breadcrumb: true
   -
     scope:
       path: ''
@@ -121,7 +122,8 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: nogales     # Default author for posts
+      breadcrumb: true
 
 
 
