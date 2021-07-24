@@ -11,4 +11,14 @@ phlow: # replace this with your info
   uri: http://phlow.de/
   email:
   twitter: "@phlow"
+
+nogales:
+  name: "Dr. Juan Nogales"
+  siterole: "Cirujano Ortopédico"
+  email: "juan@nogales.eu"
+  youtube: https://www.youtube.com/channel/UCBKWQFjc7h1PED6J5tRF1pg
+
+ferrandis:
+  name: "Dr. José Ferrandis"
+  siterole: "Cirujano Estético"
 # you can add more authors here

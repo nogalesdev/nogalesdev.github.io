@@ -18,11 +18,11 @@ slogan: 'cirugía ortopédica y medicina estética'
 description: '<b>«Centro de Terapias Biológicas Juan Nogales»</b> es un centro médico dedicado a la <b>cirugía ortopédica y a la medicina estética</b>. También empleamos técnicas diagnósticas mínimamente invasivas y de medicina regeneradora con plasma rico en plaquetas en ambos campos.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Diseño original de <a href="http://phlow.de/">Phlow</a> basado en <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> con <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.</p>'
+credits: '<p>Teléfono de contacto <br> 928 43 15 03 </br> </p>'
 
 # Main author of the website
 # See > authors.yml
-author: Dr. Juan Nogales
+author: nogales
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
