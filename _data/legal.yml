@@ -1,0 +1,18 @@
+- menu_name: "Transparencia"
+
+- name: "Política cookies"
+  url: "/cookies/"
+  title: "Política de cookies"
+
+- name: "Política privacidad"
+  url: "/privacidad/"
+  title: "Política de privacidad"
+
+- name: "Aviso legal"
+  url: "/aviso_legal/"
+  title: "Condiciones generales de uso del sitio web"
+
+- name: "Datos básicos"
+  url: "/empresa/"
+  title: "Dátos básicos de la empresa"
+
