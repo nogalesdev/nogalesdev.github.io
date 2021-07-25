@@ -35,10 +35,19 @@ format: post
 			</p>
 			{% endif %}
 
+			{% if post.show_toc %}
+				{% include toc %}
+			{% endif %}
+
 			<div itemprop="articleSection">
 			{{ content }}
 			</div>
 
+			{% if post.show_toc %}
+				</div><!-- /.medium-8.columns -->
+				</div><!-- /.row -->
+			{% endif %}
+			
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
 			{% endif %}

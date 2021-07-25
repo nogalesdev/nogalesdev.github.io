@@ -1,21 +1,21 @@
 ---
-title: REAPERTURA DE LA CONSULTA MÉDICA Y BIOLÓGICA
+title: Reapertura de la consulta médica y biológica
 date: 2020-05-24T15:35:39+01:00
 author: nogales
 layout: page-fullwidth
-teaser: 'LA CONSULTA DEL DR. JUAN NOGALES HIDALGO (CIRUJANO ORTOPÉDICO Y TRAUMATÓLOGO) Y DEL DR. JOSE FERRANDIS LUIS (MEDICINA ESTÉTICA) ESTARÁN ABIERTAS AL PÚBLICO A PARTIR DEL DÍA 1 DE JUNIO, Y QUE SE LLEVARÁN CON LAS MÁXIMAS MEDIDAS DE PROTECCIÓN FRENTE AL VIRUS SARS COV-2 PARA EVITAR CONTAGIOS. '    
+teaser: 'La consulta del Dr. juan Nogales Hidalgo (cirujano ortopédico y traumatólogo) y del Dr. Jose Ferrandis luis (medicina estética) estarán abiertas al público a partir del día 1 de junio, y que se llevarán con las máximas medidas de protección frente al virus SARS COV-2 para evitar contagios. '    
 image: 
   thumb: thumbs/reapertura-150x150.png
 categories:
   - noticias
 show_related: true
 ---
-EL CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES
+el centro de terapias biológicas juan nogales
 
-PONE EN CONOCIMIENTO DE SU DISTINGUIDA CLIENTELA, QUE LA CONSULTA DEL DR. JUAN NOGALES HIDALGO (CIRUJANO ORTOPÉDICO Y TRAUMATÓLOGO) Y DEL DR. JOSE FERRANDIS LUIS (MEDICINA ESTÉTICA) ESTARÁN ABIERTAS AL PÚBLICO A PARTIR DEL DÍA 1 DE JUNIO, Y QUE SE LLEVARÁN CON LAS MÁXIMAS MEDIDAS DE PROTECCIÓN FRENTE AL VIRUS SARS COV-2 PARA EVITAR CONTAGIOS.  
-LAS CONSULTAS SERÁN PREVIA PETICIÓN DE HORA AL TELÉFONO 928 431503 Y EN LA PAGINA WEB WWW.NOGALES.EU.  
-LAS CONSULTAS Y LOS TRATAMIENTOS SERÁN INDIVIDUALIZADOS Y MANTENIENDO LAS MEDIDAS DE PROTECCIÓN RECOMENDADAS POR EL MINISTERIO DE SANIDAD DEL GOBIERNO DE ESPAÑA
+pone en conocimiento de su distinguida clientela, que la consulta del dr. juan nogales hidalgo (cirujano ortopédico y traumatólogo) y del dr. jose ferrandis luis (medicina estética) estarán abiertas al público a partir del día 1 de junio, y que se llevarán con las máximas medidas de protección frente al virus sars cov-2 para evitar contagios.  
+las consultas serán previa petición de hora al teléfono 928 431503 y en la pagina web www.nogales.eu.  
+las consultas y los tratamientos serán individualizados y manteniendo las medidas de protección recomendadas por el ministerio de sanidad del gobierno de españa
 
 &nbsp;
 
-[APERTURA DE LA CONSULTA DE DR. JUAN NOGALES](https://www.nogales.eu/wp-content/uploads/2020/05/APERTURA-DE-LA-CONSULTA-DE-DR.-JUAN-NOGALES.pdf)
+[apertura de la consulta de dr. juan nogales](https://www.nogales.eu/wp-content/uploads/2020/05/APERTURA-DE-LA-CONSULTA-DE-DR.-JUAN-NOGALES.pdf)

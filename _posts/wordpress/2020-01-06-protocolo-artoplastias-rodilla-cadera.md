@@ -1,5 +1,5 @@
 ---
-title: PROTOCOLO DE TRATAMIENTO DE LAS ARTROPLASTIAS DE RODILLA Y CADERA
+title: Protocolo de tratamiento de las artroplastias de rodilla y cadera
 date: 2020-01-06T11:15:11+01:00
 author: nogales
 layout: page-fullwidth

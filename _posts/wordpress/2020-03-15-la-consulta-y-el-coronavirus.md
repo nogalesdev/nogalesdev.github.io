@@ -1,5 +1,5 @@
 ---
-title: LA CONSULTA Y EL CORONAVIRUS
+title: La consulta y el coronavirus
 date: 2020-03-15T14:31:49+01:00
 author: nogales
 layout: page-fullwidth
@@ -10,7 +10,7 @@ categories:
   - noticias
 show_related: true
 ---
-[CONSULTA JUAN NOGALES Y COVID-19](https://www.nogales.eu/wp-content/uploads/2020/03/CONSULTA-JUAN-NOGALES-Y-COVID-19.pdf)
+[Consulta Juan Nogales y COVID-19](https://www.nogales.eu/wp-content/uploads/2020/03/CONSULTA-JUAN-NOGALES-Y-COVID-19.pdf)
 
 A raíz de los acontecimientos que se van sucediendo en nuestro país con motivo del Covid-19 y tras la publicación del RD (Real Decreto) 463/2020 del pasado 14 de marzo JUAN NOGALES. COT. CTB, centro sanitario acreditado número 4657 por el SCS (Servicio Canario de Salud), garantiza todas las medidas higiénicas para con sus pacientes de cara a salvaguardar su seguridad. Todos los materiales usados a tal efecto son de carácter desechable, y por ello de un sólo uso. Sábanas, servilletas, guantes, además de hidrogel alcohólico, agua y jabón.
 

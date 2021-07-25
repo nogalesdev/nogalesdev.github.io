@@ -1,5 +1,5 @@
 ---
-title: EL SÍNDROME DEL DOLOR EN EL TROCANTER MAYOR (GTPS)
+title: El síndrome del dolor en el trocanter mayor (GTPS)
 date: 2019-11-02T14:09:05+01:00
 author: nogales
 layout: page-fullwidth
@@ -19,9 +19,8 @@ teaser: 'Se trata de una patología frecuente pero poco diagnosticada.'
 show_author: true
 show_date: true
 show_related: true
+show_toc: true
 ---
-
-
 <small markdown="1">{{ author }} {{ post.date }} control4 </small>
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
