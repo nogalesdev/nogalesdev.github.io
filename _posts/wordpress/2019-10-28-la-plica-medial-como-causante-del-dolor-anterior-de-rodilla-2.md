@@ -3,8 +3,6 @@ title: La plica medial como causante del dolor anterior de rodilla
 date: 2019-10-28T12:16:02+01:00
 author: nogales
 layout: page-fullwidth
-image: 
-  title: /wp-content/uploads/2018/03/Captura-de-pantalla-2018-03-24-a-las-18.02.17.png
 categories:
   - traumatologia
 tags:
@@ -13,20 +11,40 @@ tags:
   - plica sinovial
   - Sport Medicine
 teaser: 'Actualización de la información científica publicada estos ultimos años sobre la placa sinovial.'
+image:
+  thumb: /thumbs/plica_sinovial-150x150.png
 show_related: true
 show_toc: true
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Tabla de contenidos**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## ¿Que es la plica sinovial?
-Su nombre viene del griego y significa pliegue. Son estructuras embrionarias compuestas de tejido sinovial, que están en las articulaciones de los animales en su fase embrionaria y que con el tiempo van desapareciendo, quedando algunos restos en la edad adulta. 
-
-Concretamente en la rodilla de la especie humana el 70% de la población tiene algún tipo de plica sinovial. Estas pueden ser de cuatro tipos: la plica suprapatelar, la plica medial, la plica infrapatelar o ligamento mucoso y la plica lateral.
-
-De todas ellas, las que presentan potencial de dolor o alteración de la rodilla son la plica medial y el ligamento mucoso. La plica lateral también puede
-generar molestias y alteraciones, pero es mucho menos frecuente. La plica suprapatelar no suele dar ningún síntoma clínico. 
+<div class="row">
+	<div class="large-7 columns">
+<p>Su nombre viene del griego y significa pliegue. Son estructuras embrionarias compuestas de tejido sinovial, que están en las articulaciones de los animales en su fase embrionaria y que con el tiempo van desapareciendo, quedando algunos restos en la edad adulta. </p>
+<p>Concretamente en la rodilla de la especie humana el 70% de la población tiene algún tipo de plica sinovial. Estas pueden ser de cuatro tipos: la plica suprapatelar, la plica medial, la plica infrapatelar o ligamento mucoso y la plica lateral.</p>
+<p>De todas ellas, las que presentan potencial de dolor o alteración de la rodilla son la plica medial y el ligamento mucoso. La plica lateral también puede
+generar molestias y alteraciones, pero es mucho menos frecuente. La plica suprapatelar no suele dar ningún síntoma clínico. </p>
+	</div>
+	<div class="large-5 columns">
+      <img src="/images/posts/plica_sinovial-300x340.png">
+  </div>
+</div>
 
 ## ¿Que tipo de sintomatología provoca la plica medial?
-Normalmente refieren dolor en la región anterior de la rodilla, que aumenta al subir y bajar escaleras o rampas, que aumenta también cuando se realiza una actividad física intensa como las caminatas por el campo, padel, tenis, o ejercicios en gimnasio. Tras dicha actividad se suelen quejar de dolor, sensación de quemazón en la zona anterior y medial de la rodilla y sensación de “inestabilidad funcional” (como si le fuera a fallar la rodilla en un esfuerzo). También refieren que cuando llevan mucho tiempo con la rodilla flexionada, precisan estirarla para que el dolor disminuya. Otras veces los pacientes refieren que al acostarse, precisan del uso de una almohada entre las rodillas para poder conciliar el sueño por disminuir el dolor.
+Normalmente refieren dolor en la región anterior de la rodilla, que aumenta al subir y bajar escaleras o rampas, que aumenta también cuando se realiza una actividad física intensa como las caminatas por el campo, padel, tenis, o ejercicios en gimnasio. Tras dicha actividad se suelen quejar de dolor, sensación de quemazón en la zona anterior y medial de la rodilla y sensación de “inestabilidad funcional” (como si le fuera a fallar la rodilla en un esfuerzo). 
+
+También refieren que cuando llevan mucho tiempo con la rodilla flexionada, precisan estirarla para que el dolor disminuya. Otras veces los pacientes refieren que al acostarse, precisan del uso de una almohada entre las rodillas para poder conciliar el sueño por disminuir el dolor.
 
 ## ¿Hay pruebas diagnósticas para esta patología?
 Si las hay, y son test clínicos y test de diagnóstico por imagen: ecografía dinámica y resonancia magnética.
@@ -51,8 +69,7 @@ valor predictivo de 91/100.
 	- chasquido palpable durante la flexo-extensión de la rodilla.
 
 ### Ecografía dinámica
-El Dr. Lucas Paczesny (Radiology 2009) describe el **“US dinamic plica test”** que tiene una fiabilidad diagnóstica mayor que la resonancia magnética de rodilla y que evidencia
-la presencia de la plica medial con respecto a su situación en la articulación fémoro-patelar al balancear la rótula medialmente con la rodilla en extensión. También se puede medir con esta técnica el grosor que presenta la plica medial. Stubbings y Smith (The Knee 2014) en una revisión sistemática y metaanálisis de la exactitud diagnóstica de las pruebas clínicas y por imagen, concluyen que la ecografía tiene una sensibilidad de 0.90 y especificidad de 0.89 .
+El Dr. Lucas Paczesny (Radiology 2009) describe el **“US dinamic plica test”** que tiene una fiabilidad diagnóstica mayor que la resonancia magnética de rodilla y que evidencia la presencia de la plica medial con respecto a su situación en la articulación fémoro-patelar al balancear la rótula medialmente con la rodilla en extensión. También se puede medir con esta técnica el grosor que presenta la plica medial. Stubbings y Smith (The Knee 2014) en una revisión sistemática y metaanálisis de la exactitud diagnóstica de las pruebas clínicas y por imagen, concluyen que la ecografía tiene una sensibilidad de 0.90 y especificidad de 0.89 .
 
 ### Resonancia magnética
 El trabajo del Dr. Roberto GarcíaValtuille (RadioGraphics 2002) ha sido muy valioso, ya que enseña muy claramente como hay que buscar estas estructuras y presenta
@@ -84,6 +101,7 @@ importantes del dolor anterior de rodilla, incluyendo la patología sinovial. Y 
 ## Documento en PDF: 
 Si lo desean pueden descargarse el contenido del artículo en formato PDF pinchando en el siguiente enlace: [LA PLICA SINOVIAL COMO CAUSA DEL DOLOR ANTERIOR DE RODILLA](https://www.nogales.eu/wp-content/uploads/2019/10/LA-PLICA-SINOVIAL-COMO-CAUSA-DEL-DOLOR-ANTERIOR-DE-RODILLA.pdf)
 
-
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
