@@ -5,7 +5,7 @@ author: nogales
 layout: page-fullwidth
 teaser: 'A raíz de los acontecimientos que se van sucediendo en nuestro país con motivo del Covid-19, durante los meses de abril y mayo cerraremos temporalmente la consulta.'
 image: 
-  thumb: /wp-content/uploads/2014/08/IMG_0988.jpg
+  thumb: thumbs/cierre_temporal-150x150.jpg
 categories:
   - noticias
 show_related: true

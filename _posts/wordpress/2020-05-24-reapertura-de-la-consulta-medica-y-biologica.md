@@ -5,7 +5,7 @@ author: nogales
 layout: page-fullwidth
 teaser: 'LA CONSULTA DEL DR. JUAN NOGALES HIDALGO (CIRUJANO ORTOPÉDICO Y TRAUMATÓLOGO) Y DEL DR. JOSE FERRANDIS LUIS (MEDICINA ESTÉTICA) ESTARÁN ABIERTAS AL PÚBLICO A PARTIR DEL DÍA 1 DE JUNIO, Y QUE SE LLEVARÁN CON LAS MÁXIMAS MEDIDAS DE PROTECCIÓN FRENTE AL VIRUS SARS COV-2 PARA EVITAR CONTAGIOS. '    
 image: 
-  thumb: wp-content/uploads/2020/05/LOGO-CTB-OK.png
+  thumb: thumbs/reapertura-150x150.png
 categories:
   - noticias
 show_related: true

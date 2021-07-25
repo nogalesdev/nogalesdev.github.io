@@ -5,7 +5,7 @@ author: nogales
 layout: page-fullwidth
 teaser: 'A partir de el día 1 de Junio, el CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES, estará abierto y a disposición de la población general para las consultas de TRAUMATOLOGÍA y CIRUGÍA ORTOPÉDICA y para las consultas de MEDICINA ESTÉTICA con las máximas garantías de prevención para el COVID-19.' 
 image: 
-  thumb: wp-content/uploads/2020/05/LA-CONSULTA.png
+  thumb: thumbs/mampara-150x150.png
 categories:
   - noticias
 show_related: true
