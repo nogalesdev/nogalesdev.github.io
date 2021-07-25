@@ -4,7 +4,9 @@ date: 2018-07-10T11:50:07+01:00
 author: nogales
 layout: page-fullwidth    
 image: 
-  thumb: wp-content/uploads/2018/07/Captura-de-pantalla-2018-07-10-a-las-11.42.24.png
+  thumb: thumbs/bitacora_de_morera.png
+  image_fullwidth: "headers/covid-19_1280x549.jpg"
+  title: headers/bitacora_de_morera.png
 categories:
   - Noticias
 show_related: true

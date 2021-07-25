@@ -4,7 +4,8 @@ date: 2018-07-10T11:31:12+01:00
 author: nogales
 layout: page-fullwidth    
 image: 
-  thumb: wp-content/uploads/2018/07/Captura-de-pantalla-2018-07-10-a-las-10.55.43-150x150.png
+  thumb: thumbs/la_provincia_2018.png
+  title: headers/la_provincia_2018.jpg
 categories:
   - Noticias
 tags:
