@@ -7,7 +7,7 @@ image:
   thumb: thumbs/la_provincia_2018.png
   title: headers/la_provincia_2018.jpg
 categories:
-  - Noticias
+  - notas de prensa
 tags:
   - PRP
 show_related: true

@@ -17,8 +17,10 @@ nogales:
   siterole: "Cirujano Ortopédico"
   email: "juan@nogales.eu"
   youtube: https://www.youtube.com/channel/UCBKWQFjc7h1PED6J5tRF1pg
+  twitter: "@ctb_nogales"
 
 ferrandis:
   name: "Dr. José Ferrandis"
   siterole: "Cirujano Estético"
+  twitter: "@DrJoseFerrandis"
 # you can add more authors here

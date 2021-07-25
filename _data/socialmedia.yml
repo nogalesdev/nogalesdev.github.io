@@ -8,10 +8,10 @@
    class: icon-youtube
    title: ""
  
-# - name: Twitter
-#   url: http://twitter.com/phlow
-#   class: icon-twitter
-#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
+ - name: Twitter
+   url: https://twitter.com/ctb_nogales
+   class: icon-twitter
+   title: "Lo último de CTB Juan Nogales está en twitter."
 
 # - name: Facebook
 #   url: http://www.facebook.com/
