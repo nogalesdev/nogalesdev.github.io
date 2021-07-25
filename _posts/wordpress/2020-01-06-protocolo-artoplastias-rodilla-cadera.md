@@ -11,11 +11,21 @@ tags:
   - cadera
   - rodilla
 teaser: 'Desglose de nuestros procedimientos para la intervención de prótesis total de cadera o rodilla.'
+show_related: true
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
 **Tabla de contenidos**
 {: #toc }
 *  TOC
 {:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 EN ESTE ARTÍCULO SE DESGLOSAN TODOS LOS PROCEDIMIENTOS QUE SE REALIZAN EN UN PACIENTE QUE SE VA A INTERVENIR DE PRÓTESIS TOTAL DE CADERA Y RODILLA ACTUALIZADOS A 2020. ES UNA GUIA PARA EL PACIENTE Y SE LE ENTREGA PARA QUE TENGAN TODA LA INFORMACIÓN QUE PRECISAN.
 
@@ -82,3 +92,10 @@ residual.
 ### Contenido en PDF
 
 Documento de PDF: [PROTOCOLO DE TRATAMIENTO DE ARTROPLASTIAS DE RODILLA Y CADERA](https://www.nogales.eu/wp-content/uploads/2020/01/PROTOCOLO-DE-TRATAMIENTO-DE-ARTROPLASTIAS-DE-RODILLA-Y-CADERA1.pdf)
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+
+{% include next-previous-post-in-category %}
+<br>
+{% include list-posts entries='3' offset='0' category='traumatologia' %}

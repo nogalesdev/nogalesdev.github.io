@@ -1,17 +1,11 @@
 ---
-id: 9377
 title: Recuperar tu Belleza Natural
 date: 2020-11-14T10:17:40+01:00
 author: ferrandis
 layout: page-fullwidth
-guid: https://www.nogales.eu/?p=9377
-permalink: /2020/11/recuperando-tu-belleza-natural/
-slide_template:
-  - default
-teaser: 'Con el paso de los años, en la zona facial van apareciendo signos por la pérdida progresiva de soporte estructural, lo que deteriora el contorno facial y origina pliegues y arrugas. Hoy en día podemos corregir estos rasgos negativos mediante tratamientos estéticos sobre los Códigos clave de ese proceso.'
-    
+teaser: 'Con el paso de los años, en la zona facial van apareciendo signos por la pérdida progresiva de soporte estructural, lo que deteriora el contorno facial y origina pliegues y arrugas. Hoy en día podemos corregir estos rasgos negativos mediante tratamientos estéticos sobre los Códigos clave de ese proceso.'  
 categories:
-  - Medicina Estética
+  - Estetica
 tags:
   - Ecografía cutánea
   - estética
@@ -25,6 +19,7 @@ tags:
   - plasma rico en plaquetas
   - rejuvenecimiento
   - toxina botulínica
+show_related: true
 ---
 
 ## Tratamientos estéticos sobre los Códigos clave
@@ -48,3 +43,8 @@ El mecanismo de acción del PRP es múltiple:<img loading="lazy" class="alignrig
 <h2 style="text-align: center;">
   <strong> »Pide tu cita médico-estética informativa en el 928431503« </strong>
 </h2>
+
+{% include next-previous-post-in-category %}
+<br>
+{% include list-posts entries='3' offset='0' category='estetica' %}
+

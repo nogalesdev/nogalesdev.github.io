@@ -1,17 +1,14 @@
 ---
-id: 9356
 title: REAPERTURA DEL CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES
 date: 2020-05-31T12:12:57+01:00
 author: nogales
 layout: page-fullwidth
-permalink: /2020/05/reapertura-del-centro-de-terapias-biologicas-juan-nogales/
-slide_template:
-  - default
-teaser: 'A partir de el día 1 de Junio, el CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES, estará abierto y a disposición de la población general para las consultas de TRAUMATOLOGÍA y CIRUGÍA ORTOPÉDICA y para las consultas de MEDICINA ESTÉTICA con las máximas garantías de prevención para el COVID-19.'
-    
-image: /wp-content/uploads/2020/05/LA-CONSULTA.png
+teaser: 'A partir de el día 1 de Junio, el CENTRO DE TERAPIAS BIOLÓGICAS JUAN NOGALES, estará abierto y a disposición de la población general para las consultas de TRAUMATOLOGÍA y CIRUGÍA ORTOPÉDICA y para las consultas de MEDICINA ESTÉTICA con las máximas garantías de prevención para el COVID-19.' 
+image: 
+  thumb: wp-content/uploads/2020/05/LA-CONSULTA.png
 categories:
   - noticias
+show_related: true
 ---
 [REAPERTURA DEL CTB JUAN NOGALES](https://www.nogales.eu/wp-content/uploads/2020/05/REAPERTURA-DEL-CTB-JUAN-NOGALES.pdf)
 

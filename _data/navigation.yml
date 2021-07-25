@@ -2,11 +2,13 @@
   url: "/"
   side: left
 
-- title: Blog
+- title: Artículos
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Histórico artículos"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Histórico comprimido"
     url: "/blog/archive/"
 
 - title: "Contacto"

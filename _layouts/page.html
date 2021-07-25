@@ -63,3 +63,12 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 </div><!-- /.row -->
+
+{% if page.show_related %}
+			{% include next-previous-post-in-category %}
+			<br>
+			{% assign categories_sorted = page.categories | sort_natural %}
+			{% for category_word in categories_sorted %}
+				{% include list-posts entries='4' offset='0' category=category_word %}
+			{% endfor %}	
+		{% endif %}
