@@ -6,6 +6,7 @@
 *    › offset
 *    › category
 *    › tag
+*    > no_more
 *
 *   Example for Category: {% include list-posts entries='3' offset='1' category='design' %}
 *
@@ -23,6 +24,7 @@
 
 
 {% assign category = include.category %}
+{% assign no_more = include.no_more %}
 {% assign tag = include.tag %}
 <ul class="side-nav">
 
@@ -31,7 +33,9 @@
     {% for post in site.posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
+    {% unless no_more %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/"><strong>{{ site.data.language.more }}</strong></a></li>
+    {% endunless %}
 
 
   {% elsif category %}
@@ -39,7 +43,9 @@
     {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
+    {% unless no_more %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/"><strong>{{ site.data.language.more }}</strong></a></li>
+    {% endunless %}
 
 
   {% elsif tag %}

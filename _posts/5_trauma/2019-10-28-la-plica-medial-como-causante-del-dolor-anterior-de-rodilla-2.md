@@ -30,15 +30,15 @@ show_toc: true
 
 ## ¿Que es la plica sinovial?
 <div class="row">
-	<div class="large-7 columns">
+<div class="large-7 columns">
 <p>Su nombre viene del griego y significa pliegue. Son estructuras embrionarias compuestas de tejido sinovial, que están en las articulaciones de los animales en su fase embrionaria y que con el tiempo van desapareciendo, quedando algunos restos en la edad adulta. </p>
 <p>Concretamente en la rodilla de la especie humana el 70% de la población tiene algún tipo de plica sinovial. Estas pueden ser de cuatro tipos: la plica suprapatelar, la plica medial, la plica infrapatelar o ligamento mucoso y la plica lateral.</p>
 <p>De todas ellas, las que presentan potencial de dolor o alteración de la rodilla son la plica medial y el ligamento mucoso. La plica lateral también puede
 generar molestias y alteraciones, pero es mucho menos frecuente. La plica suprapatelar no suele dar ningún síntoma clínico. </p>
-	</div>
-	<div class="large-5 columns">
-      <img src="/images/posts/plica_sinovial-300x340.png">
-  </div>
+</div>
+<div class="large-5 columns">
+    <img src="/images/posts/plica_sinovial-300x340.png">
+</div>
 </div>
 
 ## ¿Que tipo de sintomatología provoca la plica medial?
@@ -72,9 +72,15 @@ valor predictivo de 91/100.
 El Dr. Lucas Paczesny (Radiology 2009) describe el **“US dinamic plica test”** que tiene una fiabilidad diagnóstica mayor que la resonancia magnética de rodilla y que evidencia la presencia de la plica medial con respecto a su situación en la articulación fémoro-patelar al balancear la rótula medialmente con la rodilla en extensión. También se puede medir con esta técnica el grosor que presenta la plica medial. Stubbings y Smith (The Knee 2014) en una revisión sistemática y metaanálisis de la exactitud diagnóstica de las pruebas clínicas y por imagen, concluyen que la ecografía tiene una sensibilidad de 0.90 y especificidad de 0.89 .
 
 ### Resonancia magnética
+<div class="row">
+<div class="large-7 columns">
 El trabajo del Dr. Roberto GarcíaValtuille (RadioGraphics 2002) ha sido muy valioso, ya que enseña muy claramente como hay que buscar estas estructuras y presenta
 ejemplos con la correspondiente imagen artroscópica del caso. El estudio mencionado anteriormente de Stubbings y Smith (The Knee 2014) concluye que la RMN de rodilla tiene una sensibilidad del 0.77 y una especificidad de 0.58. 
-
+</div>
+<div class="large-5 columns">
+    <img src="/images/posts/RMN_axial_plica_medial.png">
+</div>
+</div>
 ## ¿Tiene tratamiento?
 ### Tratamiento conservador
 En principio el tratamiento del dolor anterior de rodilla por una plica sinovial medial es conservador: medicación analgésica y antiinflamatoria, tratamiento rehabilitador con ejercicios de fortalecimiento muscular del cuádriceps, estiramientos del cuádriceps y musculatura flexora de la rodilla.

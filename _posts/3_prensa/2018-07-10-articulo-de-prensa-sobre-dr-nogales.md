@@ -8,7 +8,7 @@ image:
   image_fullwidth: "headers/covid-19_1280x549.jpg"
   title: headers/bitacora_de_morera.png
 categories:
-  - notas de prensa
+  - prensa
 show_related: true
 ---
 En el ["Bitácora de Morera"](https://blogs.canarias7.es/bitacorademorera) nos han dedicado una entrañable reseña realizada por un magnífico profesional y mejor amigo: Juan José Mendoza Torrres.
