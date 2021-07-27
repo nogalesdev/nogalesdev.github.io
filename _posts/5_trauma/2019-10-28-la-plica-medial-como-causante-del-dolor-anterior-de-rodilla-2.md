@@ -13,6 +13,8 @@ tags:
 teaser: 'Actualización de la información científica publicada estos ultimos años sobre la placa sinovial.'
 image:
   thumb: /thumbs/plica_sinovial-150x150.png
+show_author: true
+show_date: true
 show_related: true
 show_toc: true
 ---
@@ -73,14 +75,15 @@ El Dr. Lucas Paczesny (Radiology 2009) describe el **“US dinamic plica test”
 
 ### Resonancia magnética
 <div class="row">
-<div class="large-7 columns">
+<div class="large-8 columns">
 El trabajo del Dr. Roberto GarcíaValtuille (RadioGraphics 2002) ha sido muy valioso, ya que enseña muy claramente como hay que buscar estas estructuras y presenta
 ejemplos con la correspondiente imagen artroscópica del caso. El estudio mencionado anteriormente de Stubbings y Smith (The Knee 2014) concluye que la RMN de rodilla tiene una sensibilidad del 0.77 y una especificidad de 0.58. 
 </div>
-<div class="large-5 columns">
+<div class="large-4 columns">
     <img src="/images/posts/RMN_axial_plica_medial.png">
 </div>
 </div>
+
 ## ¿Tiene tratamiento?
 ### Tratamiento conservador
 En principio el tratamiento del dolor anterior de rodilla por una plica sinovial medial es conservador: medicación analgésica y antiinflamatoria, tratamiento rehabilitador con ejercicios de fortalecimiento muscular del cuádriceps, estiramientos del cuádriceps y musculatura flexora de la rodilla.
@@ -90,8 +93,15 @@ En principio el tratamiento del dolor anterior de rodilla por una plica sinovial
 Si a partir de los 6 meses, sigue con el cuadro de dolor, se recomienda el **tratamiento quirúrgico**.
 
 ### Tratamiento quirúrgico
+<div class="row">
+<div class="large-8 columns">
 Se realiza por técnica artroscópica. En dicho tratamiento se reseca la plica sinovial medial, el tejido hipertrófico de la grasa retropatelar de Hoffa y cualquier
 tejido sinovial que esté agrandado o hipertrofiado en la rodilla. Hay controversia si resecar completamente la plica o dejar un resto para evitar dañar la retinácula medial y provocar subluxación de la rótula, pero esta disparidad de soluciones no está resuelta aún. La técnica que uso es con aparato de frecuencia de onda bipolar que provoca un fenómeno de sublimación y evita el sangrado de estas estructuras muy ricas en vasos y nervios, combinado con el sinoviotomo en los tejidos fibróticos y condrales periféricos. Reseco completamente la plica desde el origen hasta el tejido de la grasa de Hoffa evitando profundizar hasta la retinácula medial. 
+</div>
+<div class="large-4 columns">
+    <img src="/images/posts/artroscopia_plica_medial_derecha.png">
+</div>
+</div>
 
 ## ¿Se cura totalmente?
 La resección de la plica es la solución al problema del síndrome de la plica sinovial. En los estudios realizados los últimos años, los resultados de la resección de la plica medial son muy buenos, por encima del 90% de curación. La plica medial no solamente es causante del dolor anterior de rodilla sino que en el caso de las plicas fibrosadas son las causantes de daño del cartílago periférico del cóndilo femoral medial.
