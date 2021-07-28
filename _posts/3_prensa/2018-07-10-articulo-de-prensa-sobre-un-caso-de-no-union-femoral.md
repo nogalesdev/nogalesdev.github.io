@@ -1,5 +1,5 @@
 ---
-title: ARTICULO DE PRENSA SOBRE UN CASO DE NO UNIÓN FEMORAL
+title: Articulo de prensa sobre un caso de no unión femoral
 date: 2018-07-10T11:31:12+01:00
 author: nogales
 layout: page-fullwidth    

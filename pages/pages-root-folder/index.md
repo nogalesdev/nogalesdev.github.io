@@ -18,6 +18,7 @@ widget3:
   url: '/traumatologia/la-plica-medial-como-causante-del-dolor-anterior-de-rodilla-2/'
   image: teasers/plica_sinovial-300x180.png
   text: 'Actualización de la información científica publicada estos ultimos años sobre la placa sinovial..'
+  button: read
 ---
 
 

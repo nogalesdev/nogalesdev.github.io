@@ -62,16 +62,16 @@ Se detecta la presencia de enorme OS TRIGONUM.
 
 <div class="row">
 	<div class="large-3 medium-6 columns">
-		<img loading="lazy" class="aligncenter size-thumbnail wp-image-9276" src="https://www.nogales.eu/wp-content/uploads/2018/07/397-SAG-T1-OS-TRIGONUM21-150x150.jpg" alt="397 SAG T1 OS TRIGONUM2" width="150" height="150" />
+		<img loading="lazy" class="aligncenter size-thumbnail wp-image-9276" src="https://www.nogales.eu/wp-content/uploads/2018/07/397-SAG-T1-OS-TRIGONUM21_180x150.jpg" alt="397 SAG T1 OS TRIGONUM2" width="150" height="150" />
 	</div>
 	<div class="large-3 medium-6 columns">
-		<img loading="lazy" class="aligncenter size-thumbnail wp-image-9277" src="https://www.nogales.eu/wp-content/uploads/2018/07/397-SAG-T2-OS-TRIGONUM-AND-TALUS-BONE-BRUISE-150x150.jpg" alt="397 SAG T2 OS TRIGONUM AND TALUS BONE BRUISE" width="150" height="150" />
+		<img loading="lazy" class="aligncenter size-thumbnail wp-image-9277" src="https://www.nogales.eu/wp-content/uploads/2018/07/397-SAG-T2-OS-TRIGONUM-AND-TALUS-BONE-BRUISE_150x150.jpg" alt="397 SAG T2 OS TRIGONUM AND TALUS BONE BRUISE" width="150" height="150" />
 	</div>
 	<div class="large-3 medium-6 columns">
-		<img loading="lazy" class="aligncenter size-thumbnail wp-image-9278" src="https://www.nogales.eu/wp-content/uploads/2018/07/397-AXIAL-T2-OS-TRIGONUM2-150x150.jpg" alt="397 AXIAL T2 OS TRIGONUM2" width="150" height="150" />
+		<img loading="lazy" class="aligncenter size-thumbnail wp-image-9278" src="https://www.nogales.eu/wp-content/uploads/2018/07/397-AXIAL-T2-OS-TRIGONUM2_150x150.jpg" alt="397 AXIAL T2 OS TRIGONUM2" width="150" height="150" />
 	</div>
 	<div class="large-3 medium-6 columns">
-		<img loading="lazy" class="aligncenter size-thumbnail wp-image-9279" src="https://www.nogales.eu/wp-content/uploads/2018/07/397-COR-T1-OS-TRIGONUM2-150x150.jpg" alt="397 COR T1 OS TRIGONUM2" width="150" height="150" />
+		<img loading="lazy" class="aligncenter size-thumbnail wp-image-9279" src="https://www.nogales.eu/wp-content/uploads/2018/07/397-COR-T1-OS-TRIGONUM2_150x150.jpg" alt="397 COR T1 OS TRIGONUM2" width="150" height="150" />
 	</div>
 </div>
 

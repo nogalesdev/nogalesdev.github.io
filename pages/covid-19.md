@@ -7,6 +7,7 @@ teaser: "La actual pandemia generada por el coronavirus supone un reto para nues
 header:
    image_fullwidth: "headers/covid-19_1280x549.jpg"
 permalink: "/covid-19/"
+sidebar: right
 ---
 2020-05-31
 :   [Reapertura del centro para retomar los tratamientos](/2020/05/reapertura-del-centro-de-terapias-biologicas-juan-nogales). 

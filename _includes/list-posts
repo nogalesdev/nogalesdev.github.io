@@ -34,7 +34,7 @@
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
     {% unless no_more %}
-      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/"><strong>{{ site.data.language.more }}</strong></a></li>
+      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/"><strong>{{ site.data.language.see_more_articles }}</strong></a></li>
     {% endunless %}
 
 
@@ -44,7 +44,7 @@
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
     {% unless no_more %}
-      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/"><strong>{{ site.data.language.more }}</strong></a></li>
+      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/"><strong>{{ site.data.language.see_more_articles }}</strong></a></li>
     {% endunless %}
 
 

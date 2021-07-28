@@ -7,6 +7,7 @@ teaser: ""
 header:
    image_fullwidth: "headers/guias_paciente.png"
 permalink: "/guias-paciente/"
+sidebar: right
 ---
 
 {% include list-posts category='guias paciente' no_more='1' %}

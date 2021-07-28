@@ -9,4 +9,4 @@ header:
 permalink: "/traumatologia/"
 ---
 
-{% include list-posts category='traumatologia' %}
+{% include list-posts category='traumatologia' no_more='1' %}

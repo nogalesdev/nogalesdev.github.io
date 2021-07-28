@@ -9,4 +9,4 @@ header:
 permalink: "/estetica/"
 ---
 
-{% include list-posts category='estetica' %}
+{% include list-posts category='estetica' no_more='1' %}
