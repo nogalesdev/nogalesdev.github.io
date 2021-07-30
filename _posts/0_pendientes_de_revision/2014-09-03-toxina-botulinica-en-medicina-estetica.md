@@ -1,20 +1,10 @@
 ---
-id: 8489
 title: Toxina Botulínica en Medicina Estética
 date: 2014-09-03T13:04:01+01:00
-author: Dr. José Ferrandis Luis
-layout: page-fullwidth
-guid: http://www.nogales.eu/?p=8489
-permalink: /2014/09/toxina-botulinica-en-medicina-estetica/
-slide_template:
-  - ""
-post:
-  - |
-    <?xml version="1.0"?>
-    <cs_meta_post><post_thumb_view>Single Image</post_thumb_view><post_featured_image_as_thumbnail></post_featured_image_as_thumbnail><post_thumb_audio></post_thumb_audio><post_thumb_video></post_thumb_video><post_thumb_slider></post_thumb_slider><post_thumb_slider_type></post_thumb_slider_type><inside_post_thumb_view>Single Image</inside_post_thumb_view><inside_post_featured_image_as_thumbnail></inside_post_featured_image_as_thumbnail><inside_post_thumb_audio></inside_post_thumb_audio><inside_post_thumb_video></inside_post_thumb_video><inside_post_thumb_slider></inside_post_thumb_slider><inside_post_thumb_slider_type></inside_post_thumb_slider_type><post_social_sharing>on</post_social_sharing><post_author_info_show>on</post_author_info_show><post_tags_show>on</post_tags_show><post_attachment_show>on</post_attachment_show><page_title></page_title><page_sub_title></page_sub_title><page_subheader_color></page_subheader_color><page_subheader_font_color></page_subheader_font_color><header_banner_style>default_header</header_banner_style><header_banner_image></header_banner_image><header_banner_flex_slider>blog</header_banner_flex_slider><custom_slider_id></custom_slider_id><sidebar_layout><cs_layout></cs_layout></sidebar_layout></cs_meta_post>
-    
+author: ferrandis
+layout: page-fullwidth   
 categories:
-  - Medicina Estética
+  - Estetica
 tags:
   - arrugas
   - azzalure
@@ -28,7 +18,7 @@ tags:
   - toxina botulínica
   - vistabel
 ---
-# Preguntas frecuentes
+## Preguntas frecuentes
 
 ### ¿Qué es la Toxina Botulínica?
 
@@ -46,14 +36,14 @@ Que su uso sea seguro se debe a su proceso de **purificación**, a las **dosis m
 
 ### ¿ Para qué lo usamos en Medicina Estética?
 
-  * **CORRECCIÓN DE ARRUGAS FACIALES**: es su indicación principal. Concretamente de las _**arrugas**** dinámicas **_o de expresión,** **que aparecen por la contracción de los músculos bajo la piel al gesticular. La principal indicación son las arrugas del tercio facial superior, especialmente el entrecejo, y también la frente y las &#8220;patas de gallo&#8221;.
+- **CORRECCIÓN DE ARRUGAS FACIALES**: es su indicación principal. Concretamente de las _**arrugas**** dinámicas **_o de expresión,** **que aparecen por la contracción de los músculos bajo la piel al gesticular. La principal indicación son las arrugas del tercio facial superior, especialmente el entrecejo, y también la frente y las &#8220;patas de gallo&#8221;.
 
-  * **PREVENCIÓN DE ARRUGAS ESTÁTICAS**: toda arruga dinámica tiende a convertirse en estática con el paso del tiempo por el daño progresivo que se produce en las fibras elásticas y de sostén de la piel donde están. Tratando las arrugas de expresión antes de ello, se previene que se conviertan en estáticas, generalmente más complicadas de abordar.
+- **PREVENCIÓN DE ARRUGAS ESTÁTICAS**: toda arruga dinámica tiende a convertirse en estática con el paso del tiempo por el daño progresivo que se produce en las fibras elásticas y de sostén de la piel donde están. Tratando las arrugas de expresión antes de ello, se previene que se conviertan en estáticas, generalmente más complicadas de abordar.
 
 [quote align=&#8221;center&#8221; color=&#8221;#COLOR_CODE&#8221;]NO ES ÚTIL EN ARRUGAS ESTÁTICAS establecidas, ya que son por pérdida de sostén y elasticidad de la piel y precisan otros tratamientos.[/quote]
 
-  * **TRATAMIENTOS ESPECIALES**: como la corrección de sonrisa gingival o de una sonrisa asimétrica.
-  * **HIPERHIDROSIS (Exceso de sudoración)**: cuando se focaliza en áreas delimitadas, como axilas, palmas o plantas, y no se debe a otras causas identificables, la inyección de toxina botulínica en la piel produce una reducción importante de la producción de sudor, ya que está mediada por el mismo neurotransmisor que se bloqueaba en la placa motora: la _acetilcolina_.  El tratamiento se aplica mediante inyección en la dermis en puntos estratégicos en la producción de sudor, con efectos satisfactorios y duraderos en la gran mayoría de casos (especialmente en hiperhidrosis axilar, pero también palmo-plantar)
+- **TRATAMIENTOS ESPECIALES**: como la corrección de sonrisa gingival o de una sonrisa asimétrica.
+- **HIPERHIDROSIS (Exceso de sudoración)**: cuando se focaliza en áreas delimitadas, como axilas, palmas o plantas, y no se debe a otras causas identificables, la inyección de toxina botulínica en la piel produce una reducción importante de la producción de sudor, ya que está mediada por el mismo neurotransmisor que se bloqueaba en la placa motora: la _acetilcolina_.  El tratamiento se aplica mediante inyección en la dermis en puntos estratégicos en la producción de sudor, con efectos satisfactorios y duraderos en la gran mayoría de casos (especialmente en hiperhidrosis axilar, pero también palmo-plantar)
 
 ### ¿Para qué NO sirve el _Botox_?
 

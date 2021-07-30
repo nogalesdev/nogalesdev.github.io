@@ -1,18 +1,8 @@
 ---
-id: 8971
-title: ADQUISICIÓN DE UN NUEVO EQUIPO DE CIRUGÍA ARTROSCÓPICA
+title: Adquisición de un nuevo equipo de cirugía artroscópica
 date: 2017-05-11T18:22:03+01:00
 author: nogales
 layout: page-fullwidth
-guid: http://www.nogales.eu/?p=8971
-permalink: /2017/05/adquisicion-de-un-nuevo-equipo-de-cirugia-artroscopica/
-slide_template:
-  - default
-post:
-  - |
-    <?xml version="1.0"?>
-    <cs_meta_post><post_thumb_view>Single Image</post_thumb_view><post_featured_image_as_thumbnail/><post_thumb_audio/><post_thumb_video/><post_thumb_slider/><post_thumb_slider_type/><inside_post_thumb_view>Single Image</inside_post_thumb_view><inside_post_featured_image_as_thumbnail/><inside_post_thumb_audio/><inside_post_thumb_video/><inside_post_thumb_slider/><inside_post_thumb_slider_type/><post_social_sharing>on</post_social_sharing><post_author_info_show>on</post_author_info_show><post_tags_show>on</post_tags_show><post_attachment_show>on</post_attachment_show><page_title/><page_sub_title/><page_subheader_color/><page_subheader_font_color/><header_banner_style>default_header</header_banner_style><header_banner_image/><header_banner_flex_slider>blog</header_banner_flex_slider><custom_slider_id/><sidebar_layout><cs_layout/></sidebar_layout></cs_meta_post>
-    
 categories:
   - Noticias
 ---

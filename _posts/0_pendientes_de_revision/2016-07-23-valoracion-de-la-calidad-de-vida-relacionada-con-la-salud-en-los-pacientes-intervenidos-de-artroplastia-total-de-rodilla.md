@@ -1,29 +1,20 @@
 ---
-id: 8696
-title: VALORACIÓN DE LA CALIDAD DE VIDA RELACIONADA CON LA SALUD EN LOS PACIENTES INTERVENIDOS DE ARTROPLASTIA TOTAL DE RODILLA.
+title: Valoración de la calidad de vida relacionada con la salud en los pacientes intervenidos de artroplastia total de rodilla.
 date: 2016-07-23T20:41:06+01:00
 author: nogales
 layout: page-fullwidth
-guid: http://www.nogales.eu/?p=8696
-permalink: /2016/07/valoracion-de-la-calidad-de-vida-relacionada-con-la-salud-en-los-pacientes-intervenidos-de-artroplastia-total-de-rodilla/
-slide_template:
-  - default
-post:
-  - |
-    <?xml version="1.0"?>
-    <cs_meta_post><post_thumb_view>Single Image</post_thumb_view><post_featured_image_as_thumbnail/><post_thumb_audio/><post_thumb_video/><post_thumb_slider/><post_thumb_slider_type/><inside_post_thumb_view>Single Image</inside_post_thumb_view><inside_post_featured_image_as_thumbnail/><inside_post_thumb_audio/><inside_post_thumb_video/><inside_post_thumb_slider/><inside_post_thumb_slider_type/><post_social_sharing>on</post_social_sharing><post_author_info_show>on</post_author_info_show><post_tags_show>on</post_tags_show><post_attachment_show>on</post_attachment_show><page_title/><page_sub_title/><page_subheader_color/><page_subheader_font_color/><header_banner_style>default_header</header_banner_style><header_banner_image/><header_banner_flex_slider>blog</header_banner_flex_slider><custom_slider_id/><sidebar_layout><cs_layout/></sidebar_layout></cs_meta_post>
-    
-image: /wp-content/uploads/2016/07/TESIS-DOCTORAL.png
 categories:
-  - artroplastia total de rodilla
-  - test de calidad de vida relacionada con la salud
+  - traumatologia
 tags:
+  - artroplastia total de rodilla
   - CVRS
   - euroqol 5d
   - HSS
   - womac
+  - test de calidad de vida relacionada con la salud
 ---
-INTRODUCCIÓN
+
+## Introducción
 
 La artroplastia total de rodilla es el tratamiento de elección en los pacientes que presentan dolor en las rodillas por procesos degenerativos artrósicos avanzados.
 
@@ -31,7 +22,7 @@ Si bien se han intentado otros tratamientos conservadores como la rehabilitació
 
 &nbsp;
 
-MATERIAL Y METODO
+## Material y metodo
 
 De mi tesis doctoral, presentada en enero de 2016 en la Universidad de Murcia, titulada “_Artroplastia Total de Rodilla: Medición de Resultados y de la Calidad de Vida con el HSS, EUROQOL 5D y el WOMAC_” que fue aprobada con sobresaliente cum laude, extraigo los siguientes datos:
 
@@ -41,17 +32,16 @@ Se les realizaron los test específicos de rodilla del Hospital for Special Surg
 
 [<img loading="lazy" class="aligncenter size-thumbnail wp-image-8708" src="http://www.nogales.eu/wp-content/uploads/2016/07/ptr-izda-2-150x150.jpg" alt="ptr izda-2" width="150" height="150" />](http://www.nogales.eu/wp-content/uploads/2016/07/ptr-izda-2.jpg) [<img loading="lazy" class="aligncenter size-thumbnail wp-image-8707" src="http://www.nogales.eu/wp-content/uploads/2016/07/ptr-izda-1-150x150.jpg" alt="ptr izda-1" width="150" height="150" />](http://www.nogales.eu/wp-content/uploads/2016/07/ptr-izda-1.jpg)
 
-RESULTADOS
+## Resultados
 
-_HSS_: la media de los resultados previa a la cirugía era de 60,20 sobre un máximo de 100 y con un rango de 48-71 puntos. A los 12 meses la media fue de 87 puntos con un rango de 80-95 puntos. Es decir una mejora de 27 puntos en este test. Además este test a partir de 85 puntos se considera como resultado excelente.
+- **HSS:** la media de los resultados previa a la cirugía era de 60,20 sobre un máximo de 100 y con un rango de 48-71 puntos. A los 12 meses la media fue de 87 puntos con un rango de 80-95 puntos. Es decir una mejora de 27 puntos en este test. Además este test a partir de 85 puntos se considera como resultado excelente.
 
-_EUROQOL 5D_: los resultados de este test al comienzo de la cirugía eran bastante deficientes en la movilidad, el cuidado personal, la realización de actividades cotidianas, el dolor, el sufrir ansiedad o depresión y la sensación de empeoramiento de su estado de salud. A los 12 meses de la intervención de artroplastia total de rodilla, los pacientes habían mejorado en todas las facetas de actividad anteriormente reseñadas y la sensación subjetiva de mejora de la calidad de vida mejoró desde un 44% a un 79%.
+- **EUROQOL 5D:** los resultados de este test al comienzo de la cirugía eran bastante deficientes en la movilidad, el cuidado personal, la realización de actividades cotidianas, el dolor, el sufrir ansiedad o depresión y la sensación de empeoramiento de su estado de salud. A los 12 meses de la intervención de artroplastia total de rodilla, los pacientes habían mejorado en todas las facetas de actividad anteriormente reseñadas y la sensación subjetiva de mejora de la calidad de vida mejoró desde un 44% a un 79%.
 
-_WOMAC_: este test es muy específico para los pacientes que presentan patologías en las rodillas y las caderas y está diseñado para valorar la calidad de vida relacionada con la salud en estos pacientes. En este test se pregunta por tres parámetros fundamentales: el dolor, la rigidez y la capacidad funcional. En este test se daban a los pacientes 5 respuestas (1 ninguna, 2 poco, 3 bastante, 4 mucho y 5 muchísimo). Los resultados de este test fueron en el preoperatorio los siguientes: para el dolor había una puntuación de 3,27 puntos sobre el máximo dolor que era 5, y a los 12 meses disminuía hasta 1,61 puntos, es decir poco dolor. Para la rigidez había una puntuación de 3,145 sobre 5 en el preoperatorio y pasaba a los 12 meses a una puntuación de 1,66 puntos es decir poca rigidez. Para la capacidad funcional se pasaba de una media mayor de 3 (es decir bastante) a una media menor de 2 (es decir poco)
+- **WOMAC:** este test es muy específico para los pacientes que presentan patologías en las rodillas y las caderas y está diseñado para valorar la calidad de vida relacionada con la salud en estos pacientes. En este test se pregunta por tres parámetros fundamentales: el dolor, la rigidez y la capacidad funcional. En este test se daban a los pacientes 5 respuestas (1 ninguna, 2 poco, 3 bastante, 4 mucho y 5 muchísimo). Los resultados de este test fueron en el preoperatorio los siguientes: para el dolor había una puntuación de 3,27 puntos sobre el máximo dolor que era 5, y a los 12 meses disminuía hasta 1,61 puntos, es decir poco dolor. Para la rigidez había una puntuación de 3,145 sobre 5 en el preoperatorio y pasaba a los 12 meses a una puntuación de 1,66 puntos es decir poca rigidez. Para la capacidad funcional se pasaba de una media mayor de 3 (es decir bastante) a una media menor de 2 (es decir poco)
 
-&nbsp;
 
-DISCUSION
+## Discusión
 
 La deformidad previa de la rodilla no influenciaba en la calidad de vida obtenida tras la cirugía.
 
@@ -73,12 +63,8 @@ Añadir a estos estudios el nivel cultural, social mental y las expectativas de 
 
 Los buenos resultados no dependen del tipo de prótesis ni del tipo de materiales que se usen, siempre dentro de una calidad minima. Dependen fundamentalmente de una buena entrevista previa a la cirugía, de una planificación quirúrgica adecuada y de una técnica quirúrgica precisa. Todo ello en conjunto mejora todos los parámetros de calidad de vida relacionada con la salud en estos procedimientos.
 
-&nbsp;
+## Conclusión
 
-CONCLUSION
+1. No existe correlación en cuanto a la mejoría del dolor tras implantar una artroplastia total de rodilla al comparar los datos obtenidos en el HSS frente a los de EUROQOL-5D y del WOMAC. Solo hay una correlación moderada entre los tres cuestionarios para la mejoría del arco de movimiento y la no necesidad de bastón o muletas para caminar tras la intervención quirúrgica, lo que indica que debe hacerse la valoración tanto con el HSS como con el WOMAC y el EUROQOL 5D.
 
-1.- No existe correlación en cuanto a la mejoría del dolor tras implantar una artroplastia total de rodilla al comparar los datos obtenidos en el HSS frente a los de EUROQOL-5D y del WOMAC. Solo hay una correlación moderada entre los tres cuestionarios para la mejoría del arco de movimiento y la no necesidad de bastón o muletas para caminar tras la intervención quirúrgica, lo que indica que debe hacerse la valoración tanto con el HSS como con el WOMAC y el EUROQOL 5D.
-
-&nbsp;
-
-2.- Aquellos pacientes que van a ser intervenidos de una artroplastia total de rodilla y presentan problemas como obesidad, hipertensión arterial, diabetes mellitus, alguna cardiopatía o una deformidad en varo-valgo severas, tienen mas posibilidades de conseguir peores resultados en los test de calidad de vida relacionada con la salud y por tanto que aumente el riesgo de insatisfacción con el resultado de la cirugía.
+2. Aquellos pacientes que van a ser intervenidos de una artroplastia total de rodilla y presentan problemas como obesidad, hipertensión arterial, diabetes mellitus, alguna cardiopatía o una deformidad en varo-valgo severas, tienen mas posibilidades de conseguir peores resultados en los test de calidad de vida relacionada con la salud y por tanto que aumente el riesgo de insatisfacción con el resultado de la cirugía.

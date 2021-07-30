@@ -1,33 +1,22 @@
 ---
-id: 8729
 title: 'OSTEOCONDROMA DE CALCANEO: UN TIPO DE TALALGIA'
 date: 2016-08-01T20:43:30+01:00
 author: nogales
 layout: page-fullwidth
-guid: http://www.nogales.eu/?p=8729
-permalink: /2016/08/osteocondroma-de-calcaneo-un-tipo-de-talalgia/
-slide_template:
-  - default
-post:
-  - |
-    <?xml version="1.0"?>
-    <cs_meta_post><post_thumb_view>Single Image</post_thumb_view><post_featured_image_as_thumbnail/><post_thumb_audio/><post_thumb_video/><post_thumb_slider/><post_thumb_slider_type/><inside_post_thumb_view>Single Image</inside_post_thumb_view><inside_post_featured_image_as_thumbnail/><inside_post_thumb_audio/><inside_post_thumb_video/><inside_post_thumb_slider/><inside_post_thumb_slider_type/><post_social_sharing>on</post_social_sharing><post_author_info_show>on</post_author_info_show><post_tags_show>on</post_tags_show><post_attachment_show>on</post_attachment_show><page_title/><page_sub_title/><page_subheader_color/><page_subheader_font_color/><header_banner_style>default_header</header_banner_style><header_banner_image/><header_banner_flex_slider>blog</header_banner_flex_slider><custom_slider_id/><sidebar_layout><cs_layout/></sidebar_layout></cs_meta_post>
-    
-image: /wp-content/uploads/2016/08/osteocondroma-calcaneo-derecho-4.png
 categories:
-  - TUMORES APARATO LOCOMOTOR
+  - traumatologia
 tags:
   - Espolón calcáneo
   - Osteocondroma
   - Talalgia
+  - TUMORES APARATO LOCOMOTOR
 ---
-#  SINOPSIS
+
+## SINOPSIS
 
 Se presenta un caso clínico de un paciente que acudió a consulta por TALALGIA derecha que no cedía con el tratamiento conservador. Fue tratado con plantillas de descarga, medicación antiinflamatoria y con crioelectroforesis. Se le realizó una Resonancia magnética del pie y se informó como tumoración plantar del CALCANEO, compatible con osteocondroma plantar. Se realizó cirugía del pie con abordaje interno y se reseco el tumor. Se realizó cierre de la herida y se aplicó plasma auto logró rico en plaquetas. La evolución de la herida fue buena. El resultado del estudio a anatomo patológico era compatible con osteocondroma.
 
-&nbsp;
-
-# CASO CLÍNICO
+## CASO CLÍNICO
 
 Paciente varón de 60 años, que acudió a consulta por TALALGIA derecha de larga evolución, que no mejoraba con el tratamiento conservador a base de taloneras de descarga, analgésicos y medidas físicas como frio, calor y pediluvios.
 
@@ -49,7 +38,7 @@ A la exploración presentaba un pie normoconfigurado, sin deformidades ni rigide
 
 [<img loading="lazy" class="aligncenter size-thumbnail wp-image-8736" src="http://www.nogales.eu/wp-content/uploads/2016/08/anatomia-patologica-150x150.jpg" alt="anatomia patologica" width="150" height="150" />](http://www.nogales.eu/wp-content/uploads/2016/08/anatomia-patologica.jpg)
 
-# DISCUSIÓN
+## DISCUSIÓN
 
 El osteocondroma de calcaneo es una tumoración muy poco frecuente. Revisando la bibliografía apenas aparecen artículos publicados y la mayor parte de ellos (unos 20 casos en PUB MED) se refieren “a propósito de un caso”. Es una tumoración que puede evolucionar a osteosarcoma, y también se ha reportado la presencia de osteocondromas tras traumatismos. Cuando un osteocondroma da sintomatología se ha recomendado que se realice exéresis del mismo.
 
@@ -59,7 +48,7 @@ La solución de esta patología es la resección radical del osteocondroma y no 
 
 &nbsp;
 
-# CONCLUSION
+## CONCLUSION
 
 En el caso que se presenta, la evolución a corto plazo ha ido muy bien, sin complicaciones y con buena respuesta al dolor.
 
@@ -67,7 +56,7 @@ La moraleja que se saca de este caso clínico es pensar que las TALALGIAS pueden
 
 &nbsp;
 
-# BIBLIOGRAFIA
+## BIBLIOGRAFIA
 
 1.- J Am Podiatr Med Assoc. 2013 Mar-Apr;103(2):136-40.
 

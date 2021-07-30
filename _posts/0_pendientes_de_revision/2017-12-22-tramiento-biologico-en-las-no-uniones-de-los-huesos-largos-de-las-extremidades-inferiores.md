@@ -1,20 +1,11 @@
 ---
-id: 9017
-title: TRATAMIENTO BIOLÓGICO EN LAS NO UNIONES DE LOS HUESOS LARGOS DE LAS EXTREMIDADES INFERIORES
+title: Tratamiento biológico en las no uniones de los huesos largos de las extremidades inferiores
 date: 2017-12-22T14:15:23+01:00
 author: nogales
 layout: page-fullwidth
-guid: http://www.nogales.eu/?p=9017
-permalink: /2017/12/tramiento-biologico-en-las-no-uniones-de-los-huesos-largos-de-las-extremidades-inferiores/
-slide_template:
-  - default
-post:
-  - |
-    <?xml version="1.0"?>
-    <cs_meta_post><post_thumb_view>Single Image</post_thumb_view><post_featured_image_as_thumbnail/><post_thumb_audio/><post_thumb_video/><post_thumb_slider/><post_thumb_slider_type/><inside_post_thumb_view>Single Image</inside_post_thumb_view><inside_post_featured_image_as_thumbnail/><inside_post_thumb_audio/><inside_post_thumb_video/><inside_post_thumb_slider/><inside_post_thumb_slider_type/><post_social_sharing>on</post_social_sharing><post_author_info_show>on</post_author_info_show><post_tags_show>on</post_tags_show><post_attachment_show>on</post_attachment_show><page_title/><page_sub_title/><page_subheader_color/><page_subheader_font_color/><header_banner_style>default_header</header_banner_style><header_banner_image/><header_banner_flex_slider>blog</header_banner_flex_slider><custom_slider_id/><sidebar_layout><cs_layout/></sidebar_layout></cs_meta_post>
-    
-image: /wp-content/uploads/2017/12/IMG_9355.jpg
 categories:
+  - traumatologia
+tags:
   - Tratamiento biológico en Aparato Locomotor
   - Traumatología
 ---

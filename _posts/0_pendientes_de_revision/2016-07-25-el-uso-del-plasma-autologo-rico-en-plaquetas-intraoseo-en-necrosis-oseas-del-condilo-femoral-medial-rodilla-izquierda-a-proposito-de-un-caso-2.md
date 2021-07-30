@@ -1,29 +1,17 @@
 ---
-id: 8702
-title: EL USO DEL PLASMA AUTOLOGO RICO EN PLAQUETAS INTRAÓSEO EN NECROSIS ÓSEAS DEL CONDILO FEMORAL MEDIAL RODILLA IZQUIERDA A PROPÓSITO DE UN CASO.
+title: El uso del plasma autologo rico en plaquetas intraóseo en necrosis óseas del condilo femoral medial rodilla izquierda a propósito de un caso.
 date: 2016-07-25T10:26:28+01:00
 author: nogales
 layout: page-fullwidth
-guid: http://www.nogales.eu/?p=8702
-permalink: /2016/07/el-uso-del-plasma-autologo-rico-en-plaquetas-intraoseo-en-necrosis-oseas-del-condilo-femoral-medial-rodilla-izquierda-a-proposito-de-un-caso-2/
-slide_template:
-  - default
-post:
-  - |
-    <?xml version="1.0"?>
-    <cs_meta_post><post_thumb_view>Single Image</post_thumb_view><post_featured_image_as_thumbnail/><post_thumb_audio/><post_thumb_video/><post_thumb_slider/><post_thumb_slider_type/><inside_post_thumb_view>Single Image</inside_post_thumb_view><inside_post_featured_image_as_thumbnail/><inside_post_thumb_audio/><inside_post_thumb_video/><inside_post_thumb_slider/><inside_post_thumb_slider_type/><post_social_sharing>on</post_social_sharing><post_author_info_show>on</post_author_info_show><post_tags_show>on</post_tags_show><post_attachment_show>on</post_attachment_show><page_title/><page_sub_title/><page_subheader_color/><page_subheader_font_color/><header_banner_style>default_header</header_banner_style><header_banner_image/><header_banner_flex_slider>blog</header_banner_flex_slider><custom_slider_id/><sidebar_layout><cs_layout/></sidebar_layout></cs_meta_post>
-    
-cs_like_counter:
-  - "2"
-image: /wp-content/uploads/2016/07/RMN-PREOP-2.jpg
 categories:
-  - Tratamiento biológico en Aparato Locomotor
+  - traumatologia
 tags:
   - lesion osteocondral rodilla
   - MPP TEST
   - osteonecrosis
   - plica medial sintomatica
   - sinusitis anterior rodilla
+  - Tratamiento biológico en Aparato Locomotor
 ---
 <p style="text-align: left;">
   MOTIVO Y ANAMNESIS: Paciente de 56 años, que acude a consulta por gonalgia izquierda que no mejora con el tratamiento conservador de 8 meses de evolución sin antecedentes traumáticos. El dolor se localiza en la región interna, se acompaña de hinchazón, bloqueos y no refiere inestabilidad. El dolor aumenta al apoyar el miembro inferior izquierdo.
