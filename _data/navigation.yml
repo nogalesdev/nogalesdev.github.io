@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: Guías paciente
-  url: "/guias-paciente/"
-  side: left
-
 - title: Artículos
   url: "/blog/"
   side: left

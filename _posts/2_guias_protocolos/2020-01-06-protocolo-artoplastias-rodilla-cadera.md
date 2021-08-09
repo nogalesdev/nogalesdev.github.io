@@ -4,12 +4,12 @@ date: 2020-01-06T11:15:11+01:00
 last_updated: 2021-07-26
 author: nogales
 layout: page-fullwidth
+permalink: /guia-protesis-cadera-rodilla-hjF+ADQVw56W
+sitemap: false
+noindex: true
+hidden: true
 categories: 
-  - guias paciente
-tags:
-  - artroplastia total
-  - cadera
-  - rodilla
+  - guias
 teaser: 'Desglose de nuestros procedimientos para la intervención de prótesis total de cadera o rodilla.'
 show_related: true
 ---
