@@ -1,14 +1,15 @@
 ---
 title: La consulta y el coronavirus
 date: 2020-03-15T14:31:49+01:00
-author: nogales
-layout: page-fullwidth
 teaser: 'A raíz de los acontecimientos que se van sucediendo en nuestro país con motivo del Covid-19, durante los meses de abril y mayo cerraremos temporalmente la consulta.'
 image: 
   thumb: thumbs/cierre_temporal-150x150.jpg
 categories:
   - noticias
 show_related: true
+permalink: /covid-19/la-consulta-y-el-coronavirus/
+layout: page
+hidden: true
 ---
 [Consulta Juan Nogales y COVID-19](https://www.nogales.eu/wp-content/uploads/2020/03/CONSULTA-JUAN-NOGALES-Y-COVID-19.pdf)
 

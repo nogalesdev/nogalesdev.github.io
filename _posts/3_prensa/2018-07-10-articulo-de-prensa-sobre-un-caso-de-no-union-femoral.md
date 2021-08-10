@@ -11,6 +11,7 @@ categories:
 tags:
   - PRP
 show_related: true
+hidden: true
 ---
 
 El Diario de Las Palmas "La Provincia", [se ha hecho eco](https://www.laprovincia.es/sociedad/2018/06/26/perpetuo-socorro-pionero-intervencion-pseudoartrosis-9457619.html) de una de nuestras intervenciones quirúrgicas empleando tratamientos biológicos que usamos para mejorar y acelerar la consolidación de fracturas en los huesos. Así logramos una recuperación más rápida y con menos morbilidad que con otros métodos convencionales.

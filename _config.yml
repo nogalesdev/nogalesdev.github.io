@@ -109,11 +109,12 @@ defaults:
       path: '' 				# an empty string here means all files in the project
       type: 'pages'
     values:
-      show_meta: false 	# Hide metadata for all pages
+      show_meta: true 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: nogales     # Default author for pages
       breadcrumb: true
+      layout: page-fullwidth
   -
     scope:
       path: ''
@@ -124,6 +125,7 @@ defaults:
       comments: false
       author: nogales     # Default author for posts
       breadcrumb: true
+      layout: page-fullwidth
 
 
 

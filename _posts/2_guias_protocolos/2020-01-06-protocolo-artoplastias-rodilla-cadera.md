@@ -1,5 +1,6 @@
 ---
 title: Protocolo de tratamiento de las artroplastias de rodilla y cadera
+teaser: 'Desglose de nuestros procedimientos para la intervención de prótesis total de cadera o rodilla.'
 date: 2020-01-06T11:15:11+01:00
 last_updated: 2021-07-26
 author: nogales
@@ -8,10 +9,9 @@ permalink: /guia-protesis-cadera-rodilla-hjF+ADQVw56W
 sitemap: false
 noindex: true
 hidden: true
+secret: true
 categories: 
   - guias
-teaser: 'Desglose de nuestros procedimientos para la intervención de prótesis total de cadera o rodilla.'
-show_related: true
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -89,7 +89,3 @@ Documento de PDF: [PROTOCOLO DE TRATAMIENTO DE ARTROPLASTIAS DE RODILLA Y CADERA
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
-
-{% include next-previous-post-in-category %}
-<br>
-{% include list-posts entries='3' offset='0' category='traumatologia' %}

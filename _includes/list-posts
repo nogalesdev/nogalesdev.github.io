@@ -29,9 +29,9 @@
 <ul class="side-nav">
 
   {% if category == NULL and tag == NULL %}
-
-    {% for post in site.posts limit:include.entries offset:include.offset %}
-      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
+    {% assign posts = site.posts | where_exp:"post", "post.hidden != true" %}
+    {% for post in posts limit:include.entries offset:include.offset %}
+      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>  
     {% endfor %}
     {% unless no_more %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/"><strong>{{ site.data.language.see_more_articles }}</strong></a></li>
@@ -39,8 +39,8 @@
 
 
   {% elsif category %}
-
-    {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
+    {% assign posts = site.categories.[category] | where_exp:"post", "post.hidden != true" %}
+    {% for post in posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
     {% unless no_more %}
@@ -49,8 +49,8 @@
 
 
   {% elsif tag %}
-
-    {% for post in site.tags.[tag] limit:include.entries %}
+    {% assign posts = site.tags.[tag] | where_exp:"post", "post.hidden != true" %}
+    {% for post in posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
 

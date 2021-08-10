@@ -1,14 +1,15 @@
 ---
 title: Reapertura de la consulta médica y biológica
 date: 2020-05-24T15:35:39+01:00
-author: nogales
-layout: page-fullwidth
 teaser: 'La consulta del Dr. juan Nogales Hidalgo (cirujano ortopédico y traumatólogo) y del Dr. Jose Ferrandis luis (medicina estética) estarán abiertas al público a partir del día 1 de junio, y que se llevarán con las máximas medidas de protección frente al virus SARS COV-2 para evitar contagios. '    
 image: 
   thumb: thumbs/reapertura-150x150.png
 categories:
   - noticias
 show_related: true
+permalink: /covid-19/reapertura-de-la-consulta-medica-y-biologica
+layout: page
+hidden: true
 ---
 el centro de terapias biológicas juan nogales
 

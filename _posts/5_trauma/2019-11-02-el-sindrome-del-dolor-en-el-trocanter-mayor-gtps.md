@@ -19,7 +19,6 @@ teaser: 'Se trata de una patología frecuente pero poco diagnosticada.'
 show_author: true
 show_date: true
 show_related: true
-show_toc: true
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

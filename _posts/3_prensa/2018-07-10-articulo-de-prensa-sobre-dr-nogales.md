@@ -10,6 +10,7 @@ image:
 categories:
   - prensa
 show_related: true
+hidden: true
 ---
 En el ["Bitácora de Morera"](https://blogs.canarias7.es/bitacorademorera) nos han dedicado una entrañable reseña realizada por un magnífico profesional y mejor amigo: Juan José Mendoza Torrres.
 

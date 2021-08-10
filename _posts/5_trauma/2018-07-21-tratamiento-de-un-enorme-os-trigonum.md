@@ -1,5 +1,6 @@
 ---
 title: Tratamiento de un enorme OS TRIGONUM / Treatment of enlarged OS TRIGONUM
+teaser: Caso clínico de una mujer de 72 años, que comenzó con dolor en la región posterior del tobillo derecho hace un año, con impotencia funcional y molestias que le impedían caminar de forma normal. El dolor ha ido en aumento y le ha provocado problemas para realizar caminatas de forma constante. Se acompaña de tumefacción del tobillo y pie en la región posterior.
 date: 2018-07-21T23:12:31+01:00
 author: nogales
 layout: page-fullwidth
@@ -17,22 +18,7 @@ tags:
 show_author: true
 show_date: true
 show_related: true
-show_toc: true
 ---
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Tabla de contenidos**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-
-## Presentación caso clínico
-Presento un caso clínico de una mujer de 72 años, que comenzó con dolor en la región posterior del tobillo derecho hace un año, con impotencia funcional y molestias que le impedían caminar de forma normal. El dolor ha ido en aumento y le ha provocado problemas para realizar caminatas de forma constante. Se acompaña de tumefacción del tobillo y pie en la región posterior.
 
 ## Exploración física
 En el examen clínico se observa un pie algo hinchado en la región posterior, con alineamiento del calcáneo en discreto valgo y dolor a la palpación en la región posterolateral a nivel del tendón de Aquiles y en la región postero-medial a nivel de la región retromaleolar interna, que aumentaba con la movilización del primer dedo del pie. Presentaba dolor en la flexión plantar forzada del pie en la zona posterior del tobillo. La movilidad de la subastragalina no presentaba dolor al igual que la movilidad de la tibioperonea-astragalina.
@@ -153,6 +139,3 @@ La paciente ha caminado independientemente con ayuda de bastones y se ha control
 El documento puede verse en PDF: [CASO CLÍNICO DE ENORME OS TRIGONUM](https://www.nogales.eu/wp-content/uploads/2018/07/CASO-CLINICO-DE-ENORME-OS-TRIGONUM.pdf)
 
 This document can be seen in PDF: [ENLARGED OS TRIGONUM, CLINICAL CASE](https://www.nogales.eu/wp-content/uploads/2018/07/ENLARGED-OS-TRIGONUM-CLINICAL-CASE.pdf)
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->

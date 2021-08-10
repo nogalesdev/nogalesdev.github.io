@@ -13,6 +13,7 @@ sidebar: right
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 			{% for post in site.posts limit:1000 %}
+			{% unless post.hidden == true %}
 			<dd class="accordion-navigation">
 			<a href="#panel{{ counter }}"><span class="iconfont"></span> 
 				{{ post.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: ' - </span>' }}
@@ -24,6 +25,7 @@ sidebar: right
 				</div>
 			</dd>
 			{% assign counter=counter | plus:1 %}
+			{% endunless %}
 			{% endfor %}
 		</dl>
 	</div><!-- /.small-12.columns -->

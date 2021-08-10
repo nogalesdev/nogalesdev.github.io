@@ -30,7 +30,16 @@ format: page-fullwidth
 			</p>
 			{% endif %}
 
+			{% if page.show_toc %}
+				{% include toc.html %}
+			{% endif %}
+
 			{{ content }}
+
+			{% if page.show_toc %}
+			</div><!-- /.medium-8.columns -->
+			</div><!-- /.row -->
+			{% endif %}
 		</article>
 		<br>
 		{% if page.show_related %}
