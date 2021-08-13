@@ -15,6 +15,8 @@ tags:
   - PROTESIS DE CADERA
   - PROTESIS DE RODILLA
   - VENAFLOW
+image: 
+  thumb: thumbs/COTCAN-2012-150x150.png
 ---
 <div style="margin-bottom: 5px;">
   <iframe src="//www.slideshare.net/slideshow/embed_code/key/FhigfdUl7wiEu0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JuanNogalesHidalgo/fast-track-cotcan-2012-87746701" title="Fast track cotcan 2012" target="_blank">Fast track cotcan 2012</a> </strong> from <strong><a href="https://www.slideshare.net/JuanNogalesHidalgo" target="_blank">Juan Nogales Hidalgo</a></strong> </div>

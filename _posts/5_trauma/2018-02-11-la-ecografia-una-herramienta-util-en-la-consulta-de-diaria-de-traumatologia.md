@@ -50,4 +50,4 @@ Si he observado que el tratamiento biológico ecoguiado ha mejorado los ratios d
 Como resumen, creo que la ecografía musculo-esquelética se ha convertido en una herramienta muy válida para la consulta diaria del cirujano ortopédico, por las ventajas que presenta y los beneficios que puede aportar, tanto en el diagnóstico como en el tratamiento.
 
 ## Versión en PDF
-[LA ECOGRAFIA EN LA CONSULTA DE CIRUGIA ORTOPÉDICA](http://www.nogales.eu/wp-content/uploads/2018/02/LA-ECOGRAFIA-EN-LA-CONSULTA-DE-CIRUGIA-ORTOPÉDICA2.pdf)
+[LA ECOGRAFIA EN LA CONSULTA DE CIRUGIA ORTOPÉDICA](http://www.nogales.eu/wp-content/uploads/2018/02/LA-ECOGRAFIA-EN-LA-CONSULTA-DE-CIRUGIA-ORTOPEDICA.pdf)

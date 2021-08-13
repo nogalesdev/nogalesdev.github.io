@@ -9,10 +9,10 @@ widget1:
   image: teasers/covid-19_300x180.jpg
   text: 'La actual pandemia generada por el coronavirus supone un reto para nuestro sistema de salud y requiere nuestra adaptación para continuar nuestros servicios de manera segura. A continuación mostramos las medidas que hemos tomado y nuestras recomendaciones a todos nuestros pacientes.'
 widget2:
-  title: 'Guías para el paciente'
-  url: '/guias-paciente/'
-  image: teasers/guias_paciente-300x180.jpg
-  text: 'Con la intención de facilitar la recuperación de nuestros pacientes, ponemos a disposición en esta sección los protocolos y guías que hemos desarrollado y aplicamos para diferentes patologías, tratamientos e intervenciones quirúrgicas.'
+  title: 'Toga quirúrgica para reducir infecciones'
+  url: 'noticias/toga-quirurgica/'
+  image: teasers/toga_quirurgica-300x180.jpg
+  text: 'En los procedimientos quirúrgicos de alto riesgo, como pueden ser las cirugías de reemplazo articular, llevamos usando este dispositivo desde el año 2014 con la notable mejoría del ratio de infección por paciente y siendo el primer Centro Sanitario en las Islas Canarias en usarlo de forma constante.'
 widget3:
   title: "La plica medial como causante del dolor anterior de rodilla"
   url: '/traumatologia/la-plica-medial-como-causante-del-dolor-anterior-de-rodilla-2/'

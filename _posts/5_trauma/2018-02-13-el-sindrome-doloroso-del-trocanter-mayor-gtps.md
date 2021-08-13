@@ -1,5 +1,6 @@
 ---
 title: El sindrome doloroso del TROCÁNTER MAYOR (GTPS)
+teaser: El dolor en la región lateral de la cadera ha sido diagnosticado durante mucho tiempo erróneamente como bursitis trocánteres, siendo usado por primera vez en 1023 por Stegerman, solo el 8% de las personas con este síndrome tienen bursitis y el 20% presentan engrosamiento de la bursa. Suele presentarse entre los 40, 50 y 60 años de la vida y es mas frecuente en mujeres que en hombres.  
 date: 2018-02-13T20:57:39+01:00
 author: nogales
 layout: page-fullwidth
@@ -94,7 +95,7 @@ Si esta patología no se diagnostica puede estar mucho tiempo en el individuo si
 Por mi parte creo que la aportación que realizo a esta patología es el diagnóstico ecográfico y el tratamiento con infiltraciones ecoguiadas de plasma autólogo rico en plaquetas que llevo realizando desde el 2007 hasta la actualidad, si bien desde 2011 las realizo con control ecográfico.
 
 ## Versión en PDF
-[SINDROME DOLOROSO DEL TROCANTER MAYOR](http://www.nogales.eu/wp-content/uploads/2018/02/SINDROME-DOLOROSO-DEL-TROCANTER-MAYOR2.pdf)
+[SINDROME DOLOROSO DEL TROCANTER MAYOR](http://www.nogales.eu/wp-content/uploads/2018/02/SINDROME-DOLOROSO-DEL-TROCANTER-MAYOR.pdf)
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

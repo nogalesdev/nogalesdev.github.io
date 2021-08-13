@@ -11,6 +11,8 @@ tags:
   - Sport Medicine
   - Tratamiento biológico en Aparato Locomotor
 teaser: 'Se trata de un vídeo de la punción de dos quistes poplíteos uno en la rodilla derecha y otro en la izquierda con evacuación del contenido sinovial por control ecográfico.'
+image:
+  thumb: /thumbs/popliteal-cyst-150x150.png
 iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/ybY891phybQ' frameborder='0' allowfullscreen></iframe>"
 video:
     embedURL: "https://www.youtube.com/embed/ybY891phybQ"
