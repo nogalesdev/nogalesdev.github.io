@@ -1,13 +1,13 @@
 ---
 title: Toga quirúrgica de proteccion personal de Stryker
-teaser: En los procedimientos quirúrgicos de alto riesgo, como pueden ser las cirugías de reemplazo articular, llevamos usando este dispositivo desde el año 2014 con la notable mejoría del ratio de infección por paciente y siendo el primer Centro Sanitario en las Islas Canarias en usarlo de forma constante.
+teaser: En procedimientos quirúrgicos de alto riesgo, comolas cirugías de reemplazo articular, llevamos usando este dispositivo desde el año 2014 con notable mejoría del ratio de infección por paciente y siendo el primer Centro Sanitario en las Islas Canarias en usarlo de forma constante.
 date: 2017-05-06T11:39:53+01:00
 layout: page-fullwidth
 image: 
   thumb: thumbs/toga_quirurgica-150x150.jpg
   title: headers/toga_quirurgica-640x310.jpg
 categories:
-  - Noticias
+  - noticias
 tags:
   - Protección bacteriana
   - Protección biológica
