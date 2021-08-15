@@ -5,7 +5,7 @@ teaser: 'La consulta del Dr. juan Nogales Hidalgo (cirujano ortopédico y trauma
 image: 
   thumb: thumbs/reapertura-150x150.png
 categories:
-  - noticias
+  - Noticias
 show_related: true
 permalink: /covid-19/reapertura-de-la-consulta-medica-y-biologica
 layout: page

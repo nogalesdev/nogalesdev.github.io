@@ -7,7 +7,7 @@ image:
   thumb: thumbs/toga_quirurgica-150x150.jpg
   title: headers/toga_quirurgica-640x310.jpg
 categories:
-  - noticias
+  - Noticias
 tags:
   - Protección bacteriana
   - Protección biológica

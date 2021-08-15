@@ -9,4 +9,4 @@ header:
 permalink: "/noticias/"
 ---
 
-{% include list-posts category='noticias' %}
+{% include list-posts category='Noticias' %}

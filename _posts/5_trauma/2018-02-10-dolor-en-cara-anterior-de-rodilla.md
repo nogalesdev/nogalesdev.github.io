@@ -5,7 +5,7 @@ date: 2018-02-10T19:38:36+01:00
 author: nogales
 layout: page-fullwidth
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - CONDROMALACIA
   - DOLOR ANTERIOR RODILLA

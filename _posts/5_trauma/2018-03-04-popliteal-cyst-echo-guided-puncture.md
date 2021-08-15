@@ -4,7 +4,7 @@ date: 2018-03-04T23:11:51+01:00
 author: nogales
 layout: video
 categopries:
-  - traumatologia
+  - Traumatologia
 tags:
   - CONSULTA MEDICA
   - Ecografía-Ultrasound

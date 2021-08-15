@@ -5,7 +5,7 @@ date: 2018-02-11T23:46:00+01:00
 author: nogales
 layout: page-fullwidth
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - Diagnostic accuracy
   - ulrasonidos

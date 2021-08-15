@@ -5,7 +5,7 @@ date: 2018-02-10T19:08:26+01:00
 author: nogales
 layout: page-fullwidth
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - ARTROPLASTIA TOTAL DE CADERA
   - artroplastia total de rodilla

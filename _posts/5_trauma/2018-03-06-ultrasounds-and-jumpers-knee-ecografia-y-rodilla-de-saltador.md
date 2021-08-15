@@ -4,7 +4,7 @@ date: 2018-03-06T00:09:26+01:00
 author: nogales
 layout: video
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - DOLOR ANTERIOR RODILLA
   - Ecografía-Ultrasound

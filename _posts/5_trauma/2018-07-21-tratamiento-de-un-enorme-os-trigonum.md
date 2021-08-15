@@ -8,7 +8,7 @@ image:
   thumb: thumbs/OS-TRIGONUM-210x150.jpg
   title: headers/OS-TRIGONUM-640x300.jpg
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - OCL Talus
   - os trigonum

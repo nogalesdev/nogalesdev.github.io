@@ -5,7 +5,7 @@ date: 2020-05-31T12:12:57+01:00
 image: 
   thumb: thumbs/mampara-150x150.png
 categories:
-  - noticias
+  - Noticias
 show_related: true
 permalink: /covid-19/reapertura-del-centro-de-terapias-biologicas-juan-nogales
 layout: page

@@ -6,7 +6,7 @@ layout: page-fullwidth
 image: 
   thumb: thumbs/trocanter_mayor-164x185.png
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - dolor
   - cadera

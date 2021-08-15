@@ -4,7 +4,7 @@ date: 2018-03-21T00:42:06+01:00
 author: nogales
 layout: video
 categories:
-  - tramatologia
+  - Traumatologia
 tags:
   - artroscopia
   - DOLOR ANTERIOR RODILLA

@@ -4,7 +4,7 @@ date: 2019-10-28T12:16:02+01:00
 author: nogales
 layout: page-fullwidth
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - condromalacia
   - dolor anterior rodilla

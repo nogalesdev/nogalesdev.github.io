@@ -5,7 +5,7 @@ date: 2018-02-10T19:01:18+01:00
 author: nogales
 layout: page-fullwidth
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - Artroscopia de rodilla
   - Sport Medicine

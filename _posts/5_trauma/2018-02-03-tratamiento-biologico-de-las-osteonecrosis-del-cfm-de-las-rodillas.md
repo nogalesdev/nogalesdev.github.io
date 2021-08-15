@@ -5,7 +5,7 @@ date: 2018-02-03T14:12:32+01:00
 author: nogales
 layout: page-fullwidth
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - Artroscopia de rodilla
   - Tratamiento biológico en Aparato Locomotor

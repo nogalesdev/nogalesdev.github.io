@@ -6,7 +6,7 @@ author: nogales
 layout: page-fullwidth
 image: /wp-content/uploads/2018/02/P1100030.jpg
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - bursitis
   - greather trochanteric pain syndrome

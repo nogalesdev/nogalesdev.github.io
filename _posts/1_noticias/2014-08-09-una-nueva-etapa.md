@@ -5,7 +5,7 @@ author: nogales
 layout: page-fullwidth
 sidebar: left
 categories:
-  - noticias
+  - Noticias
 ---
 En 2013 comenzó a andar el Centro de Terapias Biológicas Juan Nogales, en el mismo lugar que tenía mi Consulta de Cirugía Ortopédica desde 2002. 
 

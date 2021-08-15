@@ -4,7 +4,7 @@ date: 2018-03-04T23:22:28+01:00
 author: nogales
 layout: video
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - Ecografía-Ultrasound
   - platelets rich plasma

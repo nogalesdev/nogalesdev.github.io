@@ -5,7 +5,7 @@ teaser: 'A raíz de los acontecimientos que se van sucediendo en nuestro país c
 image: 
   thumb: thumbs/cierre_temporal-150x150.jpg
 categories:
-  - noticias
+  - Noticias
 show_related: true
 permalink: /covid-19/la-consulta-y-el-coronavirus/
 layout: page

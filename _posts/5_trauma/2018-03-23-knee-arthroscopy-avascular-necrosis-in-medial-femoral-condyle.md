@@ -10,7 +10,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=X7SBrlnVL-Y"
     thumbnailUrl: "http://img.youtube.com/vi/X7SBrlnVL-Y/maxresdefault.jpg"
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - Artroscopia de rodilla
   - avascular necrosis

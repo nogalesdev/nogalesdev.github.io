@@ -4,7 +4,7 @@ date: 2017-05-11T18:05:51+01:00
 author: nogales
 layout: page-fullwidth
 categories:
-  - Noticias
+  - noticias
 ---
 
 EL CENTRO DE TERAPIAS BIOLÓGICAS ha adquirido los últimos meses un motor quirúrgico de altas prestaciones para la mejora de sus resultados en las diferentes técnicas quirúrgicas que realiza su equipo de Cirugía Ortopédica y Traumatología liderado por el Dr. Juan Nogales.

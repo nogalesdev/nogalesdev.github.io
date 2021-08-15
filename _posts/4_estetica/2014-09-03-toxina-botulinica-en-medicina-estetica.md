@@ -1,5 +1,6 @@
 ---
 title: Toxina Botulínica en Medicina Estética
+teaser: Respondemos a algunas de las preguntas más frecuentes relacionadas con el Botox y sus usos.
 date: 2014-09-03T13:04:01+01:00
 author: ferrandis
 layout: page-fullwidth   
@@ -18,6 +19,18 @@ tags:
   - toxina botulínica
   - vistabel
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Tabla de contenidos**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## Preguntas frecuentes
 
 ### ¿Qué es la Toxina Botulínica?
@@ -32,7 +45,7 @@ Básicamente bloquea las &#8220;placas motoras&#8221;, que son los puntos de com
 
 Que su uso sea seguro se debe a su proceso de **purificación**, a las **dosis mínimas** que se aplican en consulta (hasta 60 veces menor que las tóxicas), y al respaldo de cientos de **estudios científicos** y décadas de experiencia clínica con **millones de pacientes**, no sólo en Medicina Estética sino también en Dermatología convencional, Oftalmología o Neurología.
 
-[quote align=&#8221;center&#8221; color=&#8221;#COLOR_CODE&#8221;]Para que su eficacia y para minimizar la probabilidad de efectos indeseados es imprescindible **personal médico formado y habilitado legalmente**[/quote]
+<mark> Para que su eficacia y para minimizar la probabilidad de efectos indeseados es imprescindible **personal médico formado y habilitado legalmente**</mark>
 
 ### ¿ Para qué lo usamos en Medicina Estética?
 
@@ -40,7 +53,7 @@ Que su uso sea seguro se debe a su proceso de **purificación**, a las **dosis m
 
 - **PREVENCIÓN DE ARRUGAS ESTÁTICAS**: toda arruga dinámica tiende a convertirse en estática con el paso del tiempo por el daño progresivo que se produce en las fibras elásticas y de sostén de la piel donde están. Tratando las arrugas de expresión antes de ello, se previene que se conviertan en estáticas, generalmente más complicadas de abordar.
 
-[quote align=&#8221;center&#8221; color=&#8221;#COLOR_CODE&#8221;]NO ES ÚTIL EN ARRUGAS ESTÁTICAS establecidas, ya que son por pérdida de sostén y elasticidad de la piel y precisan otros tratamientos.[/quote]
+<mark> **No es útil en arrugas estáticas establecidas**, ya que son por pérdida de sostén y elasticidad de la piel y precisan otros tratamientos.</mark>
 
 - **TRATAMIENTOS ESPECIALES**: como la corrección de sonrisa gingival o de una sonrisa asimétrica.
 - **HIPERHIDROSIS (Exceso de sudoración)**: cuando se focaliza en áreas delimitadas, como axilas, palmas o plantas, y no se debe a otras causas identificables, la inyección de toxina botulínica en la piel produce una reducción importante de la producción de sudor, ya que está mediada por el mismo neurotransmisor que se bloqueaba en la placa motora: la _acetilcolina_.  El tratamiento se aplica mediante inyección en la dermis en puntos estratégicos en la producción de sudor, con efectos satisfactorios y duraderos en la gran mayoría de casos (especialmente en hiperhidrosis axilar, pero también palmo-plantar)
@@ -75,13 +88,9 @@ Se puede ver con cierta frecuencia que el efecto dura progresivamente más tiemp
 
 ### ¿Quién me puede aplicar el tratamiento?
 
-[quote align=&#8221;center&#8221; color=&#8221;#COLOR_CODE&#8221;]
-
   * Rechaza toda Toxina Botulínica de marca desconocida, viales previamente abiertos o ya reconstituidos y precios anormalmente reducidos (implican baja calidad o productos no seguros)
   * Elige un profesional cualificado legalmente (Médico Estético, Dermatólogo, o Cirujano Plástico, que tengan certificación legal para manejar este fármaco)
 
-[/quote]
 
-* * *
-
-&nbsp;
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->

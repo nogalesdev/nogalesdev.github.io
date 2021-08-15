@@ -4,7 +4,7 @@ date: 2018-04-08T12:16:04+01:00
 author: nogales
 layout: video
 categories:
-  - traumatologia
+  - Traumatologia
 teaser: 'Se trata de un paciente con dolor en la región antero-lateral de la rodilla izquierda que se ha tratado en tres tiempos.'
 tags:
   - Artroscopia de rodilla

@@ -5,7 +5,7 @@ author: nogales
 layout: video
 image: /wp-content/uploads/2018/03/Captura-de-pantalla-2018-03-24-a-las-18.02.17.png
 categories:
-  - traumatologia
+  - Traumatologia
 tags:
   - Artroscopia de rodilla
   - PLICA SINOVIAL

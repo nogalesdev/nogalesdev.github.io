@@ -7,6 +7,7 @@ teaser: ""
 header:
    image_fullwidth: ""
 permalink: "/estetica/"
+author: ferrandis
 ---
 
-{% include list-posts category='estetica' no_more='1' %}
+{% include list-posts category='Estetica' no_more='1' %}
